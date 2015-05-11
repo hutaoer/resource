@@ -1,5 +1,7 @@
 # 前端资源积累
 
+# 外部资源
+
 ## react
 
 ### react-native
@@ -56,6 +58,13 @@
 * [速成](http://www.cocoachina.com/industry/20140228/7897.html)
 * [面向web前端的ios开发教程](http://www.atatech.org/articles/25264?rnd=1407383813)
 
+## 安卓开发
+* [自学安卓](http://segmentfault.com/a/1190000002564333)
+
+## docker
+* [官网](https://github.com/docker/docker)
+* [入门教程](http://segmentfault.com/a/1190000000366923)
+
 ## css
 * [box-flex](http://ued.ctrip.com/blog/wp-content/webkitcss/demo/box-orient.html)
 * [CSS3旋转](http://sports.163.com/special/weishihao/)
@@ -65,6 +74,12 @@
 * [webkit attribute](http://ued.ctrip.com/webkitcss/)
 * [编写高效的CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Writing_Efficient_CSS)
 * [css animate](http://daneden.github.io/animate.css/)
+
+### flexbox
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [弹性方框模型 (Flexible Box Model) 快速入门](http://www.html5rocks.com/zh/tutorials/flexbox/quick/)
+* [学习CSS布局](http://zh.learnlayout.com/flexbox.html)
+* [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties?utm_source=CSS-Weekly&utm_campaign=Issue-158&utm_medium=web)
 
 ## nodejs
 * [exports 和module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
@@ -87,6 +102,8 @@
 
 ## 网站推荐
 * [mozilla web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
+* [segmentfault](http://segmentfault.com/)
+* [高质量前端资源汇聚](http://div.io/#/welcome)
 
 ## 学习研究
 * [BigPipe学习研究](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)
