@@ -34,6 +34,7 @@
 
 ## git
 * [ghooks](https://www.npmjs.com/package/ghooks)
+* [git-extras](https://github.com/tj/git-extras)
 
 ## javascript
 * [ECMAScript 6入门](http://es6.ruanyifeng.com)
