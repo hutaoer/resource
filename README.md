@@ -9,6 +9,7 @@
 * [React Native第一课](http://www.html-js.com/article/2783)
 * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://www.cocoachina.com/ios/20150408/11513.html)
 * [React Native开发技巧](http://www.csdn.net/tag/react%20native/blog)
+* [react学习指南](https://github.com/ele828/react-native-guide)
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
