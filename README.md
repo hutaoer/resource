@@ -55,6 +55,9 @@
 * [jscs](http://jscs.info/)
 * [ESLint](http://eslint.org/)
 
+## H5
+* [mobilebone转场](http://www.zhangxinxu.com/wordpress/2014/10/mobilebone-js-mobile-web-app-core/)
+
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
 * [速成](http://www.cocoachina.com/industry/20140228/7897.html)
@@ -101,6 +104,7 @@
 
 ## 博客推荐
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
+* [明城](http://www.gracecode.coma/)
 
 ## 网站推荐
 * [mozilla web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
