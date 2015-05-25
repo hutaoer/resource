@@ -2,7 +2,10 @@
 
 # 外部资源
 
+## react&&react-native
+
 ## react
+* [轻松入门React和Webpack](http://www.html-js.com/article/The-front-four-basic-skills-shuoxuedouchang%202931)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -113,3 +116,7 @@
 
 ## 学习研究
 * [BigPipe学习研究](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)
+
+## 博客搭建
+* [typecho](https://github.com/typecho/typecho)
+* [typecho官网](http://typecho.org/)
