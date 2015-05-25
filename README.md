@@ -1,6 +1,7 @@
 # 前端资源积累
 
-# 外部资源
+## 常用
+* [MDN:查找常用的API和属性](https://developer.mozilla.org/zh-CN/)
 
 ## react&&react-native
 
