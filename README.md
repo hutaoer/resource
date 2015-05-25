@@ -27,13 +27,15 @@
 ### 模块化
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
+
 #### webpack
   * [webpack](http://webpack.github.io/docs/commonjs.html)
   * [Webpack 入门指迷](http://segmentfault.com/a/1190000002551952)
-  * 
+
 #### browserify
   * [browserify](http://browserify.org/)
   * [browserify运行原理分析](http://www.alloyteam.com/2014/10/browserify-yun-xing-yuan-li-fen-xi/)
+
 #### yeoman
 * [官网](http://yeoman.io/)
 
@@ -59,11 +61,16 @@
 * [jscs](http://jscs.info/)
 * [ESLint](http://eslint.org/)
 
-## 
+## h5开发
 * [玩转HTML5移动页面（优化篇）](http://isux.tencent.com/play-with-html5-optimize.html)
 * [玩转HTML5移动页面（动效篇）](http://isux.tencent.com/play-with-html5-animate.html)
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
+
+### 转场动画
 * [mobilebone转场](http://www.zhangxinxu.com/wordpress/2014/10/mobilebone-js-mobile-web-app-core/)
+
+### 调试
+* [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
