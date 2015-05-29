@@ -54,6 +54,7 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 * [es6features](https://github.com/lukehoban/es6features)
+* [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module)
 
 ### 拖动
 * [dragula](http://bevacqua.github.io/dragula/)
