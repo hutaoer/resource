@@ -134,6 +134,7 @@
 * [mozilla web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [segmentfault](http://segmentfault.com/)
 * [高质量前端资源汇聚](http://div.io/#/welcome)
+* [奇舞周刊](http://www.75team.com/weekly/)
 
 ## 学习研究
 * [BigPipe学习研究](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)
