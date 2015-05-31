@@ -56,6 +56,14 @@
 * [es6features](https://github.com/lukehoban/es6features)
 * [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module)
 
+### ES6
+* [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
+* [现在开始使用 ES6](http://www.jianshu.com/p/9150ec3d1512)
+
+
+### 设计模式
+* [JavaScript设计模式：单例模式](http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-singleton/)
+
 ### 拖动
 * [dragula](http://bevacqua.github.io/dragula/)
 
