@@ -110,6 +110,9 @@
 * [学习CSS布局](http://zh.learnlayout.com/flexbox.html)
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties?utm_source=CSS-Weekly&utm_campaign=Issue-158&utm_medium=web)
 
+### feature and hack
+* [margin-top合并fix](http://www.jb51.net/css/75789.html)
+
 ## nodejs
 * [exports 和module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
 * [nodejs实现BigPipe1](https://github.com/undoZen/bigpipe-on-node)
