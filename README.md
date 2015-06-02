@@ -3,6 +3,13 @@
 ## 常用
 * [MDN:查找常用的API和属性](https://developer.mozilla.org/zh-CN/)
 
+## 模板引擎
+
+### jade
+* [Jade - 模板引擎](http://expressjs.jser.us/jade.html)
+* [Jade 模板引擎使用](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)
+* [Jade中文教程](http://blog.jayself.com/2014/07/28/Jade/)
+
 ## react&&react-native
 
 ## react
@@ -24,6 +31,11 @@
 * [生成短链](http://tb.cn/shorturl/ajax/transform.htm?url=http://www.taobao.com)
 * [代理工具:anyproxy](https://github.com/alibaba/anyproxy)
 * [30分钟学会使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3603389.html)
+
+### gulp
+* [gulp-book](https://github.com/nimojs/gulp-book)
+* [gulp中文网](http://www.gulpjs.com.cn/)
+* [gulp入门教程](http://segmentfault.com/a/1190000000372547)
 
 ### 模块化
 * [umd](https://github.com/umdjs/umd)
