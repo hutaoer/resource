@@ -32,6 +32,11 @@
 * [代理工具:anyproxy](https://github.com/alibaba/anyproxy)
 * [30分钟学会使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3603389.html)
 
+### jshint
+* [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
+* [官网文档](http://jshint.com/docs/options/)
+* [nodejs环境使用jshint](http://realwall.cn/blog/?p=148)
+
 ### gulp
 * [gulp-book](https://github.com/nimojs/gulp-book)
 * [gulp中文网](http://www.gulpjs.com.cn/)
