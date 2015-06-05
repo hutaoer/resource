@@ -122,6 +122,9 @@
 * [编写高效的CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Writing_Efficient_CSS)
 * [css animate](http://daneden.github.io/animate.css/)
 
+### 垂直水平居中
+* [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
+
 ### flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [弹性方框模型 (Flexible Box Model) 快速入门](http://www.html5rocks.com/zh/tutorials/flexbox/quick/)
