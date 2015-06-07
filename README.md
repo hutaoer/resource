@@ -149,10 +149,14 @@
 ## 书推荐
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
 * [前端书籍](http://blog.csdn.net/ysydao/article/details/44087583)
+* [移动web手册](http://item.jd.com/1520263143.html)
 
 ## 博客推荐
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [明城](http://www.gracecode.coma/)
+* [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
+* [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
+* [Web Developer学习路线图](https://github.com/phodal/awesome-developer)
 
 ## 网站推荐
 * [mozilla web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
