@@ -164,6 +164,9 @@
 * [高质量前端资源汇聚](http://div.io/#/welcome)
 * [奇舞周刊](http://www.75team.com/weekly/)
 
+## 特效
+* [背景图分裂](http://codepen.io/anon/pen/YXZbOE)
+
 ## 学习研究
 * [BigPipe学习研究](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)
 
