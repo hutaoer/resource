@@ -143,6 +143,9 @@
 ## imagemagick使用
 * [实例](http://www.netingcn.com/tag/imagemagicktag)
 
+## 数据挖掘
+* [ELK](http://chenlinux.com/)
+
 ## 课程资源
 * [慕课网](http://www.imooc.com/)
 
@@ -152,8 +155,12 @@
 * [移动web手册](http://item.jd.com/1520263143.html)
 
 ## 博客推荐
+
+### 个人博客
+* [王子亭](https://jysperm.me/profile/)
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [明城](http://www.gracecode.coma/)
+
 * [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
 * [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
 * [Web Developer学习路线图](https://github.com/phodal/awesome-developer)
