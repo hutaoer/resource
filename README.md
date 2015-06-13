@@ -62,6 +62,9 @@
 * [ghooks](https://www.npmjs.com/package/ghooks)
 * [git-extras](https://github.com/tj/git-extras)
 
+## 前端框架
+* [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
+
 ## javascript
 * [ECMAScript 6入门](http://es6.ruanyifeng.com)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
@@ -181,3 +184,11 @@
 ## 博客搭建
 * [typecho](https://github.com/typecho/typecho)
 * [typecho官网](http://typecho.org/)
+
+
+## nginx
+* [linux configure配置项](http://tengine.taobao.org/nginx_docs/cn/docs/install.html)
+* [nginx安装遇到的坑](http://blog.csdn.net/guodongxiaren/article/details/40950249)
+
+## 翻墙
+* [hosts](http://blog.yadgen.com/?page_id=585)
