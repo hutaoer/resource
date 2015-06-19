@@ -112,6 +112,7 @@
 * [IOS开发基础学习](http://blog.csdn.net/column/details/ios-base.html)
 * [ios开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS移动应用开发新手入门指南中文版](http://dl.iplaysoft.com/files/3285.html)
+* [官方文档翻译](http://www.cnblogs.com/ChenYilong/p/3496069.html)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
@@ -147,6 +148,9 @@
 * [nodejs实现BigPipe1](https://github.com/undoZen/bigpipe-on-node)
 * [nodejs实现BigPipe2](http://yuguo.us/weblog/bigpipe-in-nodejs/)
 * [bigpipe npm](https://www.npmjs.com/package/bigpipe)
+
+### 爬虫
+* [nodejs爬虫](https://github.com/Summerlve/spiderLearning/tree/master)
 
 ## imagemagick使用
 * [实例](http://www.netingcn.com/tag/imagemagicktag)
