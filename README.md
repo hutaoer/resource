@@ -109,6 +109,9 @@
 * [入门实战源码](http://itjoy.org/?p=446)
 * [速成](http://www.cocoachina.com/industry/20140228/7897.html)
 * [面向web前端的ios开发教程](http://www.atatech.org/articles/25264?rnd=1407383813)
+* [IOS开发基础学习](http://blog.csdn.net/column/details/ios-base.html)
+* [ios开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS移动应用开发新手入门指南中文版](http://dl.iplaysoft.com/files/3285.html)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
