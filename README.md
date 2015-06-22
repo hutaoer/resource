@@ -23,6 +23,7 @@
 * [react学习指南](https://github.com/ele828/react-native-guide)
 * [reactnative中文教程](http://wiki.jikexueyuan.com/project/react-native/)
 * [react.zeef.com](https://react.zeef.com/nick.raienko)
+* [V2HOT APP](https://github.com/xcatliu/V2HOT)
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
