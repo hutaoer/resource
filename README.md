@@ -198,6 +198,7 @@
 ## nginx
 * [linux configure配置项](http://tengine.taobao.org/nginx_docs/cn/docs/install.html)
 * [nginx安装遇到的坑](http://blog.csdn.net/guodongxiaren/article/details/40950249)
+* [rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
 
 ## 翻墙
 * [hosts](http://blog.yadgen.com/?page_id=585)
