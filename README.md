@@ -194,6 +194,8 @@
 * [typecho](https://github.com/typecho/typecho)
 * [typecho官网](http://typecho.org/)
 
+## web安全
+* [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 
 ## nginx
 * [linux configure配置项](http://tengine.taobao.org/nginx_docs/cn/docs/install.html)
