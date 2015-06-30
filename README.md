@@ -184,6 +184,11 @@
 * [高质量前端资源汇聚](http://div.io/#/welcome)
 * [奇舞周刊](http://www.75team.com/weekly/)
 
+## php
+* [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
+* [yii文档](http://www.yiiframework.com/doc/guide/1.1/zh_cn/changes)
+* [laravel中文文档](http://laravel-china.org/)
+
 ## 特效
 * [背景图分裂](http://codepen.io/anon/pen/YXZbOE)
 
