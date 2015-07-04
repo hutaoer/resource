@@ -34,6 +34,7 @@
 * [代理工具:anyproxy](https://github.com/alibaba/anyproxy)
 * [30分钟学会使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3603389.html)
 * [chrome开发者工具](http://web.jobbole.com/82558/)
+* [github前端工具集合](https://github.com/codylindley/frontend-tools)
 
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
