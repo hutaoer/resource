@@ -61,6 +61,7 @@
 #### yeoman
 * [官网](http://yeoman.io/)
 
+
 ## git
 * [ghooks](https://www.npmjs.com/package/ghooks)
 * [git-extras](https://github.com/tj/git-extras)
@@ -94,6 +95,8 @@
 ### 测试
 * [jscs](http://jscs.info/)
 * [ESLint](http://eslint.org/)
+* [前端自动化测试探索](http://fex.baidu.com/blog/2015/07/front-end-test/)
+* [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
 ## h5开发
 * [玩转HTML5移动页面（优化篇）](http://isux.tencent.com/play-with-html5-optimize.html)
@@ -151,6 +154,7 @@
 * [nodejs实现BigPipe1](https://github.com/undoZen/bigpipe-on-node)
 * [nodejs实现BigPipe2](http://yuguo.us/weblog/bigpipe-in-nodejs/)
 * [bigpipe npm](https://www.npmjs.com/package/bigpipe)
+* [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
 
 ### 爬虫
 * [nodejs爬虫](https://github.com/Summerlve/spiderLearning/tree/master)
@@ -211,3 +215,6 @@
 
 ## 翻墙
 * [hosts](http://blog.yadgen.com/?page_id=585)
+
+## 想法
+* [ideas合集](http://ideas.phodal.com/)
