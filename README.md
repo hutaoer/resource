@@ -165,8 +165,9 @@
 ## 数据挖掘
 * [ELK](http://chenlinux.com/)
 
-## 课程资源
+## 课程习题资源
 * [慕课网](http://www.imooc.com/)
+* [牛客网](http://www.nowcoder.com/271221)
 
 ## 书推荐
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
