@@ -155,6 +155,7 @@
 * [nodejs实现BigPipe2](http://yuguo.us/weblog/bigpipe-in-nodejs/)
 * [bigpipe npm](https://www.npmjs.com/package/bigpipe)
 * [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
+* [NodeJS错误处理最佳实践](http://code.oneapm.com/nodejs/2015/04/13/nodejs-errorhandling/)
 
 ### 爬虫
 * [nodejs爬虫](https://github.com/Summerlve/spiderLearning/tree/master)
