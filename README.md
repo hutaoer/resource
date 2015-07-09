@@ -155,7 +155,13 @@
 * [nodejs实现BigPipe2](http://yuguo.us/weblog/bigpipe-in-nodejs/)
 * [bigpipe npm](https://www.npmjs.com/package/bigpipe)
 * [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
+
+### error处理
 * [NodeJS错误处理最佳实践](http://code.oneapm.com/nodejs/2015/04/13/nodejs-errorhandling/)
+* [Node 出现 uncaughtException 之后的优雅退出方案](http://www.infoq.com/cn/articles/quit-scheme-of-node-uncaughtexception-emergence)
+* [Node.js 异步异常的处理与domain模块解析](https://cnodejs.org/topic/516b64596d38277306407936)
+* [error handling in asynchronous node.js calls](http://stackoverflow.com/questions/5816436/error-handling-in-asynchronous-node-js-calls)
+* [nodejs异常捕获的一些实践](http://www.alloyteam.com/2013/12/node-js-series-exception-caught/)
 
 ### 爬虫
 * [nodejs爬虫](https://github.com/Summerlve/spiderLearning/tree/master)
