@@ -156,6 +156,9 @@
 * [bigpipe npm](https://www.npmjs.com/package/bigpipe)
 * [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
 
+### process
+* [node.js入门 - 12.api：进程（process）](http://www.cnblogs.com/softlover/archive/2012/10/03/2707139.html)
+
 ### error处理
 * [NodeJS错误处理最佳实践](http://code.oneapm.com/nodejs/2015/04/13/nodejs-errorhandling/)
 * [Node 出现 uncaughtException 之后的优雅退出方案](http://www.infoq.com/cn/articles/quit-scheme-of-node-uncaughtexception-emergence)
@@ -187,6 +190,7 @@
 * [王子亭](https://jysperm.me/profile/)
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [明城](http://www.gracecode.coma/)
+* [xuyuan923](https://github.com/xuyuan923/FE-learning)
 
 * [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
 * [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
