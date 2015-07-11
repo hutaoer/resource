@@ -86,6 +86,9 @@
 * [现在开始使用 ES6](http://www.jianshu.com/p/9150ec3d1512)
 
 
+### 插件
+* [i5ting_ztree_toc](https://github.com/i5ting/i5ting_ztree_toc)
+
 ### 设计模式
 * [JavaScript设计模式：单例模式](http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-singleton/)
 
@@ -158,6 +161,7 @@
 
 ### process
 * [node.js入门 - 12.api：进程（process）](http://www.cnblogs.com/softlover/archive/2012/10/03/2707139.html)
+* [一起读nodejs(五)----进程(process)](http://blog.csdn.net/kingviker/article/details/7951106)
 
 ### error处理
 * [NodeJS错误处理最佳实践](http://code.oneapm.com/nodejs/2015/04/13/nodejs-errorhandling/)
@@ -178,6 +182,7 @@
 ## 课程习题资源
 * [慕课网](http://www.imooc.com/)
 * [牛客网](http://www.nowcoder.com/271221)
+* [麦子学院](http://www.maiziedu.com/course/python/)
 
 ## 书推荐
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
@@ -190,7 +195,12 @@
 * [王子亭](https://jysperm.me/profile/)
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [明城](http://www.gracecode.coma/)
+
+### github
 * [xuyuan923](https://github.com/xuyuan923/FE-learning)
+* [百度前端技术学院](https://github.com/baidu-ife/ife)
+* [no13bus](https://github.com/no13bus)
+* [GKuChan](https://github.com/GKuChan)
 
 * [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
 * [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
