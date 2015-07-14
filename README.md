@@ -2,6 +2,7 @@
 
 ## 常用
 * [MDN:查找常用的API和属性](https://developer.mozilla.org/zh-CN/)
+* [极客导航](http://www.gogeeks.cn/)
 
 ## 模板引擎
 
@@ -36,6 +37,7 @@
 * [30分钟学会使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3603389.html)
 * [chrome开发者工具](http://web.jobbole.com/82558/)
 * [github前端工具集合](https://github.com/codylindley/frontend-tools)
+* [第三方工具集合(创业公司高效开发资源整理)](http://www.guanggoo.com/t/5473)
 
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
@@ -50,6 +52,10 @@
 ### 模块化
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
+
+### 文档生成
+* [mkdocs](http://www.mkdocs.org/user-guide/writing-your-docs/#file-layout)
+* [ztree toc](http://i5ting.github.io/i5ting_ztree_toc/)
 
 #### webpack
   * [webpack](http://webpack.github.io/docs/commonjs.html)
