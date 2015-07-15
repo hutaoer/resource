@@ -87,6 +87,7 @@
 * [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 * [es6features](https://github.com/lukehoban/es6features)
 * [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module)
+* [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298#articleHeader4)
 
 ### ES6
 * [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
