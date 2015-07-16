@@ -88,6 +88,7 @@
 * [es6features](https://github.com/lukehoban/es6features)
 * [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module)
 * [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298#articleHeader4)
+* [Javascript常用方法函数收集](http://www.imooc.com/article/1237)
 
 ### ES6
 * [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
