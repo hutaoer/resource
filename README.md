@@ -150,6 +150,8 @@
 * [css animate](http://daneden.github.io/animate.css/)
 * [基于css3的文字3D翻转特效](http://www.html5cn.org/article-7655-1.html)
 * [css3实现loading效果](http://www.imooc.com/article/1218)
+* [css3D立方旋转效果](http://www.html5cn.org/article-8433-1.html)
+* [css实现好玩的checkbox](http://codersblock.com/blog/checkbox-trickery-with-css/)
 
 ### 垂直水平居中
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
