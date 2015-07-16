@@ -149,6 +149,7 @@
 * [编写高效的CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Writing_Efficient_CSS)
 * [css animate](http://daneden.github.io/animate.css/)
 * [基于css3的文字3D翻转特效](http://www.html5cn.org/article-7655-1.html)
+* [css3实现loading效果](http://www.imooc.com/article/1218)
 
 ### 垂直水平居中
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
