@@ -15,6 +15,8 @@
 
 ## react
 * [轻松入门React和Webpack](http://www.html-js.com/article/The-front-four-basic-skills-shuoxuedouchang%202931)
+* [深入浅出react](http://www.infoq.com/cn/dive-into-react)
+* [webpack和react小书](https://fakefish.github.io/react-webpack-cookbook/)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -38,6 +40,7 @@
 * [chrome开发者工具](http://web.jobbole.com/82558/)
 * [github前端工具集合](https://github.com/codylindley/frontend-tools)
 * [第三方工具集合(创业公司高效开发资源整理)](http://www.guanggoo.com/t/5473)
+* [fiddler](http://www.imooc.com/view/37)
 
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
@@ -89,6 +92,10 @@
 * [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module)
 * [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298#articleHeader4)
 * [Javascript常用方法函数收集](http://www.imooc.com/article/1237)
+* [javascript参考标准](http://javascript.ruanyifeng.com/)
+
+### 模块化
+* [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
 
 ### ES6
 * [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
