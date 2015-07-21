@@ -209,6 +209,7 @@
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
 * [前端书籍](http://blog.csdn.net/ysydao/article/details/44087583)
 * [移动web手册](http://item.jd.com/1520263143.html)
+* [这是“教育课程”，不是“技校课程”](http://zhibimo.com/read/xiaolai/growth/this-is-not-a-vocational-course.html)
 
 ## 博客推荐
 
