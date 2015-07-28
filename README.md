@@ -55,6 +55,7 @@
 ### 模块化
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
+* [js-module-7day](http://huangxuan.me/js-module-7day/)
 
 ### 文档生成
 * [mkdocs](http://www.mkdocs.org/user-guide/writing-your-docs/#file-layout)
@@ -160,6 +161,7 @@
 * [css3实现loading效果](http://www.imooc.com/article/1218)
 * [css3D立方旋转效果](http://www.html5cn.org/article-8433-1.html)
 * [css实现好玩的checkbox](http://codersblock.com/blog/checkbox-trickery-with-css/)
+* [css实现箭头](http://ourjs.com/detail/532bc9f36922aa7e1d000001)
 
 ### 垂直水平居中
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
