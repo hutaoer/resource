@@ -41,6 +41,7 @@
 * [github前端工具集合](https://github.com/codylindley/frontend-tools)
 * [第三方工具集合(创业公司高效开发资源整理)](http://www.guanggoo.com/t/5473)
 * [fiddler](http://www.imooc.com/view/37)
+* [pm2使用文档](http://wohugb.gitbooks.io/pm2/content/features/log.html)
 
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
@@ -106,6 +107,7 @@
 
 ### 插件
 * [i5ting_ztree_toc](https://github.com/i5ting/i5ting_ztree_toc)
+* [页面全屏滚动fullPage.js](http://alvarotrigo.com/fullPage/#firstPage)
 
 ### 设计模式
 * [JavaScript设计模式：单例模式](http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-singleton/)
