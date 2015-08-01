@@ -42,6 +42,7 @@
 * [第三方工具集合(创业公司高效开发资源整理)](http://www.guanggoo.com/t/5473)
 * [fiddler](http://www.imooc.com/view/37)
 * [pm2使用文档](http://wohugb.gitbooks.io/pm2/content/features/log.html)
+* [javascript性能分析工具](https://github.com/wyvernnot/javascript_performance_measurement/tree/gh-pages/cpuprofile_topology)
 
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
@@ -142,6 +143,7 @@
 * [ios开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS移动应用开发新手入门指南中文版](http://dl.iplaysoft.com/files/3285.html)
 * [官方文档翻译](http://www.cnblogs.com/ChenYilong/p/3496069.html)
+* [](https://github.com/Tim9Liu9/TimLiu-iOS)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
