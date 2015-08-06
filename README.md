@@ -187,6 +187,8 @@
 * [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
 * [We have a problem with promises](http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/)
 * [stream手册](https://github.com/jabez128/stream-handbook)
+* [nodejs风格指南](https://github.com/RisingStack/node-style-guide)
+* [nodejs包教不包会](https://github.com/alsotang/node-lessons)
 
 ### process
 * [node.js入门 - 12.api：进程（process）](http://www.cnblogs.com/softlover/archive/2012/10/03/2707139.html)
