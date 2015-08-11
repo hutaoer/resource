@@ -144,6 +144,7 @@
 * [iOS移动应用开发新手入门指南中文版](http://dl.iplaysoft.com/files/3285.html)
 * [官方文档翻译](http://www.cnblogs.com/ChenYilong/p/3496069.html)
 * [](https://github.com/Tim9Liu9/TimLiu-iOS)
+* [ios学习资源](https://github.com/Aufree/trip-to-iOS)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
