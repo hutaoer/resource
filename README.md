@@ -47,6 +47,7 @@
 ### vim
 * [vim自定义快捷键](http://uniquejava.iteye.com/blog/1485884)
 * [k-vim](https://github.com/wklken/k-vim)
+* [NERDTree快捷键](http://blog.csdn.net/lyhdream/article/details/22490531)
 
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
