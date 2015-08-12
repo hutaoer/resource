@@ -44,6 +44,10 @@
 * [pm2使用文档](http://wohugb.gitbooks.io/pm2/content/features/log.html)
 * [javascript性能分析工具](https://github.com/wyvernnot/javascript_performance_measurement/tree/gh-pages/cpuprofile_topology)
 
+### vim
+* [vim自定义快捷键](http://uniquejava.iteye.com/blog/1485884)
+* [k-vim](https://github.com/wklken/k-vim)
+
 ### jshint
 * [最佳实践](http://pythonhackers.com/p/popomore/jshint-practice)
 * [官网文档](http://jshint.com/docs/options/)
@@ -64,8 +68,11 @@
 * [ztree toc](http://i5ting.github.io/i5ting_ztree_toc/)
 
 #### webpack
-  * [webpack](http://webpack.github.io/docs/commonjs.html)
-  * [Webpack 入门指迷](http://segmentfault.com/a/1190000002551952)
+* [webpack](http://webpack.github.io/docs/commonjs.html)
+* [Webpack 入门指迷](http://segmentfault.com/a/1190000002551952)
+* [getting-started](http://webpack.github.io/docs/tutorials/getting-started/)
+* [webpack-howto](https://github.com/petehunt/webpack-howto)
+* [Webpack 怎么用](http://segmentfault.com/a/1190000002552008)
 
 #### browserify
   * [browserify](http://browserify.org/)
@@ -190,6 +197,11 @@
 * [stream手册](https://github.com/jabez128/stream-handbook)
 * [nodejs风格指南](https://github.com/RisingStack/node-style-guide)
 * [nodejs包教不包会](https://github.com/alsotang/node-lessons)
+
+### express 4.x
+* [浅谈 Express 4.0 Router 模块](http://lostjs.com/2014/04/24/router-in-express-4/)
+* [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+* [express api router](http://expressjs.com/api.html#router)
 
 ### process
 * [node.js入门 - 12.api：进程（process）](http://www.cnblogs.com/softlover/archive/2012/10/03/2707139.html)
