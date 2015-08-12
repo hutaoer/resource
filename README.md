@@ -86,6 +86,7 @@
 * [ghooks](https://www.npmjs.com/package/ghooks)
 * [git-extras](https://github.com/tj/git-extras)
 * [猴子都能看懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+* [git diff高级技巧](http://yang3wei.github.io/blog/2013/02/15/git-diff-dai-ma-bi-jiao-de-gao-ji-ji-qiao/)
 
 ## 前端框架
 * [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
