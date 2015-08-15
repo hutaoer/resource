@@ -17,6 +17,7 @@
 * [轻松入门React和Webpack](http://www.html-js.com/article/The-front-four-basic-skills-shuoxuedouchang%202931)
 * [深入浅出react](http://www.infoq.com/cn/dive-into-react)
 * [webpack和react小书](https://fakefish.github.io/react-webpack-cookbook/)
+* [learn-react的demo](https://github.com/LingyuCoder/learn-react)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
