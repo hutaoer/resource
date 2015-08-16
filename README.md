@@ -4,6 +4,13 @@
 * [MDN:查找常用的API和属性](https://developer.mozilla.org/zh-CN/)
 * [极客导航](http://www.gogeeks.cn/)
 
+## 规范
+
+### restful
+* [RESTful API 设计参考文献列表](https://github.com/aisuhua/restful-api-design-references)
+* [Resty](https://github.com/Dreampie/Resty)
+* [rest-in-action](https://github.com/waylau/rest-in-action)
+
 ## 模板引擎
 
 ### jade
@@ -44,6 +51,7 @@
 * [fiddler](http://www.imooc.com/view/37)
 * [pm2使用文档](http://wohugb.gitbooks.io/pm2/content/features/log.html)
 * [javascript性能分析工具](https://github.com/wyvernnot/javascript_performance_measurement/tree/gh-pages/cpuprofile_topology)
+* [手机淘宝前端的图片相关工作流程梳理](http://jiongks.name/blog/our-image-workflow/)
 
 ### vim
 * [vim自定义快捷键](http://uniquejava.iteye.com/blog/1485884)
@@ -110,6 +118,7 @@
 
 ### 模块化
 * [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
+* [前端模块化 - CommonJS、AMD与CMD](http://frend.cc/seajs/2015/02/01/seajs-commonjs-cmd-amd.html)
 
 ### ES6
 * [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
@@ -177,6 +186,9 @@
 * [css3D立方旋转效果](http://www.html5cn.org/article-8433-1.html)
 * [css实现好玩的checkbox](http://codersblock.com/blog/checkbox-trickery-with-css/)
 * [css实现箭头](http://ourjs.com/detail/532bc9f36922aa7e1d000001)
+
+### SVG
+* [SVG进阶 | SVG过滤器（SVG Filters）](http://www.html5cn.org/article-8630-1.html)
 
 ### 垂直水平居中
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
@@ -282,6 +294,9 @@
 * [linux configure配置项](http://tengine.taobao.org/nginx_docs/cn/docs/install.html)
 * [nginx安装遇到的坑](http://blog.csdn.net/guodongxiaren/article/details/40950249)
 * [rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
+
+## linux
+* [学习Linux你必须知道的那些事儿](http://www.imooc.com/article/1375)
 
 ## 翻墙
 * [hosts](http://blog.yadgen.com/?page_id=585)
