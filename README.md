@@ -213,7 +213,11 @@
 * [nodejs风格指南](https://github.com/RisingStack/node-style-guide)
 * [nodejs包教不包会](https://github.com/alsotang/node-lessons)
 
-### express 4.x
+### 框架
+* [Rabbit.js](https://github.com/xinyu198736/Rabbit.js)
+* [前端乱炖repo](https://github.com/xinyu198736/htmljs)
+
+### express
 * [浅谈 Express 4.0 Router 模块](http://lostjs.com/2014/04/24/router-in-express-4/)
 * [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
 * [express api router](http://expressjs.com/api.html#router)
