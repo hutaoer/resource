@@ -307,3 +307,7 @@
 
 ## 想法
 * [ideas合集](http://ideas.phodal.com/)
+* [微信你的Kindle](http://xun.im/2015/07/19/weixin-robot-vs-kindle/)
+
+## 我的想法
+* 熟人微信推送，微信机器人
