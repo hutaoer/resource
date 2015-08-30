@@ -213,6 +213,9 @@
 * [nodejs风格指南](https://github.com/RisingStack/node-style-guide)
 * [nodejs包教不包会](https://github.com/alsotang/node-lessons)
 
+### sequelize
+* [sequelize增删改查](https://cnodejs.org/topic/5201c94144e76d216a39c4dc)
+
 ### 框架
 * [Rabbit.js](https://github.com/xinyu198736/Rabbit.js)
 * [前端乱炖repo](https://github.com/xinyu198736/htmljs)
@@ -275,6 +278,7 @@
 * [segmentfault](http://segmentfault.com/)
 * [高质量前端资源汇聚](http://div.io/#/welcome)
 * [奇舞周刊](http://www.75team.com/weekly/)
+* [FEX技术周刊](http://div.io/topic/1241)
 
 ## php
 * [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
@@ -310,4 +314,4 @@
 * [微信你的Kindle](http://xun.im/2015/07/19/weixin-robot-vs-kindle/)
 
 ## 我的想法
-* 熟人微信推送，微信机器人
+* 熟人微信推送，微信机器人 
