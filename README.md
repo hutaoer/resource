@@ -26,6 +26,7 @@
 * [webpack和react小书](https://fakefish.github.io/react-webpack-cookbook/)
 * [learn-react的demo](https://github.com/LingyuCoder/learn-react)
 * [使用 React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
+* [知乎日报web版](https://github.com/nonoroazoro/Zhihu-Daily-Reader)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -116,6 +117,11 @@
 * [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298#articleHeader4)
 * [Javascript常用方法函数收集](http://www.imooc.com/article/1237)
 * [javascript参考标准](http://javascript.ruanyifeng.com/)
+
+## vue.js
+* [官网](http://cn.vuejs.org/guide/)
+* [实例：vue-chart](https://github.com/Coffcer/vue-chat)
+* [Vue.js 和 Webpack](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1.html)
 
 ### 模块化
 * [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
@@ -318,6 +324,7 @@
 ## 想法
 * [ideas合集](http://ideas.phodal.com/)
 * [微信你的Kindle](http://xun.im/2015/07/19/weixin-robot-vs-kindle/)
+* [微信你的kindle in v2ex](https://www.v2ex.com/t/215601)
 
 ## 我的想法
 * 熟人微信推送，微信机器人 
