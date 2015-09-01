@@ -25,6 +25,7 @@
 * [深入浅出react](http://www.infoq.com/cn/dive-into-react)
 * [webpack和react小书](https://fakefish.github.io/react-webpack-cookbook/)
 * [learn-react的demo](https://github.com/LingyuCoder/learn-react)
+* [使用 React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -258,6 +259,10 @@
 
 ## 博客推荐
 
+### 文章
+* [前端技术的开放和封闭](https://github.com/jayli/jayli.github.com/issues/18)
+* [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+
 ### 个人博客
 * [王子亭](https://jysperm.me/profile/)
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
@@ -297,6 +302,7 @@
 
 ## web安全
 * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
+* [浅谈CSRF攻击方式](http://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
 
 ## nginx
 * [linux configure配置项](http://tengine.taobao.org/nginx_docs/cn/docs/install.html)
