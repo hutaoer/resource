@@ -194,6 +194,9 @@
 * [css实现好玩的checkbox](http://codersblock.com/blog/checkbox-trickery-with-css/)
 * [css实现箭头](http://ourjs.com/detail/532bc9f36922aa7e1d000001)
 
+### 动画
+* [CSS Animation](https://cssanimation.rocks/)
+
 ### SVG
 * [SVG进阶 | SVG过滤器（SVG Filters）](http://www.html5cn.org/article-8630-1.html)
 
