@@ -317,6 +317,7 @@
 * [linux configure配置项](http://tengine.taobao.org/nginx_docs/cn/docs/install.html)
 * [nginx安装遇到的坑](http://blog.csdn.net/guodongxiaren/article/details/40950249)
 * [rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
+* [nginx教程](http://blog.sina.com.cn/s/blog_6d579ff40100wi7p.html)
 
 ## linux
 * [学习Linux你必须知道的那些事儿](http://www.imooc.com/article/1375)
