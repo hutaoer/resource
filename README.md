@@ -55,6 +55,14 @@
 * [javascript性能分析工具](https://github.com/wyvernnot/javascript_performance_measurement/tree/gh-pages/cpuprofile_topology)
 * [手机淘宝前端的图片相关工作流程梳理](http://jiongks.name/blog/our-image-workflow/)
 
+### 静态博客
+* [simple](https://github.com/isnowfy/simple.git)
+* [用静态页面生成静态博客](http://isnowfy.github.io/about-simple-cn.html)
+* [jekyll](http://jekyllrb.com/docs/quickstart/)
+* [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide/)
+* [nico-cmd spmjs.org文档主题](https://github.com/spmjs/nico-cmd)
+* [spm-doc 文档生成器](https://github.com/spmjs/spm-doc)
+
 ### vim
 * [vim自定义快捷键](http://uniquejava.iteye.com/blog/1485884)
 * [k-vim](https://github.com/wklken/k-vim)
@@ -69,6 +77,7 @@
 * [gulp-book](https://github.com/nimojs/gulp-book)
 * [gulp中文网](http://www.gulpjs.com.cn/)
 * [gulp入门教程](http://segmentfault.com/a/1190000000372547)
+* [gulp.run 不再推荐使用](https://github.com/gulpjs/gulp/issues/193)
 
 ### 模块化
 * [umd](https://github.com/umdjs/umd)
@@ -93,6 +102,8 @@
 #### yeoman
 * [官网](http://yeoman.io/)
 
+## http
+* [HTTP2资料汇总](https://imququ.com/post/http2-resource.html)
 
 ## git
 * [ghooks](https://www.npmjs.com/package/ghooks)
@@ -102,6 +113,10 @@
 
 ## 前端框架
 * [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
+
+### redux
+* [redux](https://reduxframework.com/)
+* [Redux 核心概念](http://www.jianshu.com/p/3334467e4b32)
 
 ## javascript
 * [ECMAScript 6入门](http://es6.ruanyifeng.com)
@@ -118,7 +133,7 @@
 * [Javascript常用方法函数收集](http://www.imooc.com/article/1237)
 * [javascript参考标准](http://javascript.ruanyifeng.com/)
 
-## vue.js
+### vue.js
 * [官网](http://cn.vuejs.org/guide/)
 * [实例：vue-chart](https://github.com/Coffcer/vue-chat)
 * [Vue.js 和 Webpack](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1.html)
@@ -271,6 +286,9 @@
 ### 文章
 * [前端技术的开放和封闭](https://github.com/jayli/jayli.github.com/issues/18)
 * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+* [30 天学习 30 种新技术系列](http://segmentfault.com/a/1190000000349384)
+* [有关网页渲染，每个前端开发者都该知道的那点事](http://www.ituring.com.cn/article/199622)
+* [如何成为“10倍效率”开发者](http://www.iteye.com/news/23799)
 
 ### 个人博客
 * [王子亭](https://jysperm.me/profile/)
