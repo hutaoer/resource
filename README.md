@@ -55,6 +55,9 @@
 * [javascript性能分析工具](https://github.com/wyvernnot/javascript_performance_measurement/tree/gh-pages/cpuprofile_topology)
 * [手机淘宝前端的图片相关工作流程梳理](http://jiongks.name/blog/our-image-workflow/)
 
+### 编辑器
+* [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
+
 ### 静态博客
 * [simple](https://github.com/isnowfy/simple.git)
 * [用静态页面生成静态博客](http://isnowfy.github.io/about-simple-cn.html)
@@ -62,6 +65,7 @@
 * [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide/)
 * [nico-cmd spmjs.org文档主题](https://github.com/spmjs/nico-cmd)
 * [spm-doc 文档生成器](https://github.com/spmjs/spm-doc)
+* [hexo主题](https://github.com/hexojs/hexo/wiki/Themes)
 
 ### vim
 * [vim自定义快捷键](http://uniquejava.iteye.com/blog/1485884)
