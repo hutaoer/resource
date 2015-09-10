@@ -66,6 +66,11 @@
 * [nico-cmd spmjs.org文档主题](https://github.com/spmjs/nico-cmd)
 * [spm-doc 文档生成器](https://github.com/spmjs/spm-doc)
 * [hexo主题](https://github.com/hexojs/hexo/wiki/Themes)
+* [hexo源码解析系列](http://blog.suluf.com/2014/02/28/hexo-source-reading-0/)
+* [hexo-yuidoc](https://github.com/hexojs/hexo-yuidoc)
+* [spm-doc](https://github.com/spmjs/spm-doc)
+* [nico-cmd](https://github.com/spmjs/nico-cmd)
+* [nico中文文档](http://lab.lepture.com/nico/zh/)
 
 ### vim
 * [vim自定义快捷键](http://uniquejava.iteye.com/blog/1485884)
@@ -241,6 +246,7 @@
 * [stream手册](https://github.com/jabez128/stream-handbook)
 * [nodejs风格指南](https://github.com/RisingStack/node-style-guide)
 * [nodejs包教不包会](https://github.com/alsotang/node-lessons)
+* [剖析 Promise 之基础篇](http://shangchun.net/promise-insight.html)
 
 ### sequelize
 * [sequelize增删改查](https://cnodejs.org/topic/5201c94144e76d216a39c4dc)
