@@ -226,6 +226,7 @@
 
 ### 垂直水平居中
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
+* [CSS布局之-水平垂直居中](http://div.io/topic/1155)
 
 ### flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
