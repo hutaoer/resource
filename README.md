@@ -357,6 +357,8 @@
 
 ## 想法
 * [ideas合集](http://ideas.phodal.com/)
+* [黑客派](http://hacpai.com/)
+* [v2ex](http://www.v2ex.com/)
 * [微信你的Kindle](http://xun.im/2015/07/19/weixin-robot-vs-kindle/)
 * [微信你的kindle in v2ex](https://www.v2ex.com/t/215601)
 
