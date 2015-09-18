@@ -141,6 +141,7 @@
 * [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298#articleHeader4)
 * [Javascript常用方法函数收集](http://www.imooc.com/article/1237)
 * [javascript参考标准](http://javascript.ruanyifeng.com/)
+* [常用正则表达式](http://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
 
 ### vue.js
 * [官网](http://cn.vuejs.org/guide/)
