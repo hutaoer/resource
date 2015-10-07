@@ -313,6 +313,7 @@
 * [百度前端技术学院](https://github.com/baidu-ife/ife)
 * [no13bus](https://github.com/no13bus)
 * [GKuChan](https://github.com/GKuChan)
+* [小胡子哥](https://github.com/barretlee)
 
 * [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
 * [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
