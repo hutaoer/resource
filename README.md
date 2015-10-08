@@ -326,6 +326,8 @@
 * [高质量前端资源汇聚](http://div.io/#/welcome)
 * [奇舞周刊](http://www.75team.com/weekly/)
 * [FEX技术周刊](http://div.io/topic/1241)
+* [伯乐在线前端小组](http://group.jobbole.com/category/tech/webfront/)
+* [伯乐在线](http://web.jobbole.com/)
 
 ## php
 * [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
