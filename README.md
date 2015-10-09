@@ -329,6 +329,9 @@
 * [伯乐在线前端小组](http://group.jobbole.com/category/tech/webfront/)
 * [伯乐在线](http://web.jobbole.com/)
 
+### code
+* [代码片段集合](http://snippets.barretlee.com/)
+
 ## php
 * [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
 * [yii文档](http://www.yiiframework.com/doc/guide/1.1/zh_cn/changes)
