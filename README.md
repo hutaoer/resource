@@ -331,6 +331,8 @@
 
 ### code
 * [代码片段集合](http://snippets.barretlee.com/)
+* [通过游戏提升编码能力](http://blog.jobbole.com/92553/)
+
 
 ## php
 * [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
