@@ -251,6 +251,7 @@
 * [nodejs风格指南](https://github.com/RisingStack/node-style-guide)
 * [nodejs包教不包会](https://github.com/alsotang/node-lessons)
 * [剖析 Promise 之基础篇](http://shangchun.net/promise-insight.html)
+* [谈谈 ES6 的 Promise 对象](http://segmentfault.com/a/1190000002928371)
 
 ### sequelize
 * [sequelize增删改查](https://cnodejs.org/topic/5201c94144e76d216a39c4dc)

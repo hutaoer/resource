@@ -6,3 +6,6 @@
 
 ## 工作
 * [程序员客栈](http://www.proginn.com/)
+
+## 养生
+* [鼻炎](http://www.douban.com/group/topic/40864204/)
