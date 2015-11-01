@@ -12,3 +12,7 @@
 
 ## PPT
 * [pptstore](http://www.pptstore.net/ppt_free/)
+
+
+## 编程思想
+* [面向切面编程](http://nuysoft.com/2013/09/04/intro-to-aspect-oriented-programming/)
