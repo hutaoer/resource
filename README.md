@@ -142,6 +142,11 @@
 * [Javascript常用方法函数收集](http://www.imooc.com/article/1237)
 * [javascript参考标准](http://javascript.ruanyifeng.com/)
 * [常用正则表达式](http://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
+* [移动端原生JS实现手指跟随的触控滑动](http://segmentfault.com/a/1190000003817077)
+
+### iscroll.js
+* [源码分析](http://www.ghugo.com/iscroll-5-source/)
+* [中文API](http://local.taobao.com/iscroll5.doc.cn/_book/init.html)
 
 ### vue.js
 * [官网](http://cn.vuejs.org/guide/)
