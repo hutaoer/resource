@@ -145,6 +145,9 @@
 * [移动端原生JS实现手指跟随的触控滑动](http://segmentfault.com/a/1190000003817077)
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 
+### SVG
+* [SVG动画](http://lmgonzalves.github.io/segment/)
+
 ### iscroll.js
 * [源码分析](http://www.ghugo.com/iscroll-5-source/)
 * [中文API](http://local.taobao.com/iscroll5.doc.cn/_book/init.html)
