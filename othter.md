@@ -17,6 +17,8 @@
 ## 编程思想
 * [面向切面编程](http://nuysoft.com/2013/09/04/intro-to-aspect-oriented-programming/)
 
+## 娱乐
+* [电视台热度](http://eye.kuyun.com/)
 
 ## 字幕
 一、字幕网站推荐
