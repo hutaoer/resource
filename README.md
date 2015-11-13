@@ -146,6 +146,9 @@
 * [移动端原生JS实现手指跟随的触控滑动](http://segmentfault.com/a/1190000003817077)
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 
+### 图片懒加载
+* [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/)
+
 ### SVG
 * [SVG动画](http://lmgonzalves.github.io/segment/)
 
