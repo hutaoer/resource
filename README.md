@@ -265,6 +265,7 @@
 * [nodejs包教不包会](https://github.com/alsotang/node-lessons)
 * [剖析 Promise 之基础篇](http://shangchun.net/promise-insight.html)
 * [谈谈 ES6 的 Promise 对象](http://segmentfault.com/a/1190000002928371)
+* [nodeschool](http://nodeschool.io/zh-cn/)
 
 ### sequelize
 * [sequelize增删改查](https://cnodejs.org/topic/5201c94144e76d216a39c4dc)
@@ -347,6 +348,8 @@
 * [代码片段集合](http://snippets.barretlee.com/)
 * [通过游戏提升编码能力](http://blog.jobbole.com/92553/)
 
+## python
+* [python电子书](http://www.kancloud.cn/tag/Python)
 
 ## php
 * [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
