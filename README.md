@@ -56,6 +56,7 @@
 * [javascript性能分析工具](https://github.com/wyvernnot/javascript_performance_measurement/tree/gh-pages/cpuprofile_topology)
 * [手机淘宝前端的图片相关工作流程梳理](http://jiongks.name/blog/our-image-workflow/)
 * [png图片压缩地址](https://tinypng.com/)
+* [alfred](https://github.com/zenorocha/alfred-workflows)
 
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
