@@ -27,6 +27,7 @@
 * [learn-react的demo](https://github.com/LingyuCoder/learn-react)
 * [使用 React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
 * [知乎日报web版](https://github.com/nonoroazoro/Zhihu-Daily-Reader)
+* [轻松入门React和Webpack](https://github.com/tmallfe/tmallfe.github.io/issues/23)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -38,6 +39,7 @@
 * [react.zeef.com](https://react.zeef.com/nick.raienko)
 * [V2HOT APP](https://github.com/xcatliu/V2HOT)
 * [react-native通信机制](React Native通信机制详解)
+* [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
@@ -125,6 +127,8 @@
 * [git-extras](https://github.com/tj/git-extras)
 * [猴子都能看懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [git diff高级技巧](http://yang3wei.github.io/blog/2013/02/15/git-diff-dai-ma-bi-jiao-de-gao-ji-ji-qiao/)
+* [Git的撤消操作 - 重置, 签出 和 撤消](http://gitbook.liuhui998.com/4_9.html)
+* [gitbook撤销操作](https://sandwind.gitbooks.io/git-pro-cn/content/git-base/revert.html)
 
 ## 前端框架
 * [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
