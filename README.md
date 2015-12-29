@@ -320,11 +320,14 @@
 * [牛客网](http://www.nowcoder.com/271221)
 * [麦子学院](http://www.maiziedu.com/course/python/)
 
-## 书推荐
+## 读书
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
 * [前端书籍](http://blog.csdn.net/ysydao/article/details/44087583)
 * [移动web手册](http://item.jd.com/1520263143.html)
 * [这是“教育课程”，不是“技校课程”](http://zhibimo.com/read/xiaolai/growth/this-is-not-a-vocational-course.html)
+
+## kindle
+* [epub转mobi工具](http://www.convertfiles.com/)
 
 ## 博客推荐
 
