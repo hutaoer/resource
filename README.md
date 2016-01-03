@@ -405,6 +405,7 @@
 
 ## 翻墙
 * [hosts](http://blog.yadgen.com/?page_id=585)
+* [hosts绑定](http://laod.cn/hosts/2015-google-hosts.html)
 
 ## 其他语言
 
