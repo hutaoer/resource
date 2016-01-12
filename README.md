@@ -28,6 +28,7 @@
 * [使用 React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
 * [知乎日报web版](https://github.com/nonoroazoro/Zhihu-Daily-Reader)
 * [轻松入门React和Webpack](https://github.com/tmallfe/tmallfe.github.io/issues/23)
+* [react初探--AlloyTeam](http://www.alloyteam.com/2015/04/react-explore/)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -364,6 +365,8 @@
 * [伯乐在线前端小组](http://group.jobbole.com/category/tech/webfront/)
 * [伯乐在线](http://web.jobbole.com/)
 * [天猫前端](https://github.com/tmallfe/tmallfe.github.io/issues)
+* [mooc](http://mooc.guokr.com/)
+* [网易公开课](http://c.open.163.com/coursera/home.htm)
 
 ### code
 * [代码片段集合](http://snippets.barretlee.com/)
