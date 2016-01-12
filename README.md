@@ -62,6 +62,7 @@
 * [png图片压缩地址](https://tinypng.com/)
 * [alfred](https://github.com/zenorocha/alfred-workflows)
 * [终端命令帮助工具tldr](https://github.com/tldr-pages/tldr)
+* [页面性能测试工具](http://www.webpagetest.org/)
 
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
