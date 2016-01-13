@@ -42,6 +42,7 @@
 * [react-native通信机制](React Native通信机制详解)
 * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
 * [react-native-lesson](https://github.com/vczero/react-native-lesson)
+* [react-web](https://github.com/taobaofed/react-web)
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
