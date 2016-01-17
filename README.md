@@ -65,6 +65,10 @@
 * [终端命令帮助工具tldr](https://github.com/tldr-pages/tldr)
 * [页面性能测试工具](http://www.webpagetest.org/)
 
+
+## 性能
+* [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
+
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
 * [解决sublimeText3无法安装插件问题](http://blog.csdn.net/zhyh1986/article/details/40678263)
