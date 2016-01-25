@@ -412,6 +412,7 @@
 ### shell
 * [Linux shell中的一个问题 ${}带正则匹配的表达式](http://www.cnblogs.com/dyllove98/archive/2013/07/26/3217851.html)
 * [Shell中\[和\[\[的异同](http://blog.csdn.net/ysdaniel/article/details/7905818)
+* [使用grep查找指定目录下的关键字](http://edsionte.com/techblog/archives/3164)
 
 ## 翻墙
 * [hosts](http://blog.yadgen.com/?page_id=585)
