@@ -54,6 +54,7 @@
 * [30分钟学会使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3603389.html)
 * [chrome开发者工具](http://web.jobbole.com/82558/)
 * [chrome开发者工具技巧](http://web.jobbole.com/84148/)
+* [Chorme 35个开发者工具的小技巧](http://www.w3cplus.com/tools/dev-tips.html)
 * [github前端工具集合](https://github.com/codylindley/frontend-tools)
 * [第三方工具集合(创业公司高效开发资源整理)](http://www.guanggoo.com/t/5473)
 * [fiddler](http://www.imooc.com/view/37)
