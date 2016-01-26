@@ -346,6 +346,8 @@
 * [30 天学习 30 种新技术系列](http://segmentfault.com/a/1190000000349384)
 * [有关网页渲染，每个前端开发者都该知道的那点事](http://www.ituring.com.cn/article/199622)
 * [如何成为“10倍效率”开发者](http://www.iteye.com/news/23799)
+* [技术工程师成长之其中一道](http://www.baidufe.com/item/c48cdd8e24e5ace8cef2.html)
+* [如何成为一名卓越的前端工程师](http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/)
 
 ### 个人博客
 * [王子亭](https://jysperm.me/profile/)
