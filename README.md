@@ -69,6 +69,7 @@
 
 ## 性能
 * [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
+* [老教授研究首屏时间？你先要知道这几点细节](http://www.alloyteam.com/2016/01/points-about-resource-loading/)
 
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
@@ -349,6 +350,7 @@
 * [技术工程师成长之其中一道](http://www.baidufe.com/item/c48cdd8e24e5ace8cef2.html)
 * [如何成为一名卓越的前端工程师](http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/)
 
+
 ### 个人博客
 * [王子亭](https://jysperm.me/profile/)
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
@@ -360,6 +362,7 @@
 * [no13bus](https://github.com/no13bus)
 * [GKuChan](https://github.com/GKuChan)
 * [小胡子哥](https://github.com/barretlee)
+* [2015回顾：如何选择前端开发模式](https://github.com/yutingzhao1991/blog/issues/4)
 
 * [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
 * [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
