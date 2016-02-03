@@ -16,7 +16,7 @@
 ### jade
 * [Jade - 模板引擎](http://expressjs.jser.us/jade.html)
 * [Jade 模板引擎使用](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)
-* [Jade中文教程](http://blog.jayself.com/2014/07/28/Jade/)
+* [Jade中文教程](http://blog.jayself.com/2014http://www.elsyy.com/course/vc-63-1-1/07/28/Jade/)
 
 ## react&&react-native
 
@@ -231,6 +231,7 @@
 * [iOS、mac开源项目及库](https://github.com/Tim9Liu9/TimLiu-iOS)
 * [ios学习资源](https://github.com/Aufree/trip-to-iOS)
 * [swift社区](http://swiftcn.io/)
+* [视频教程](http://www.elsyy.com/course/vc-63-1-1)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
