@@ -70,6 +70,11 @@
 * [代码搜索Libraries.io](https://libraries.io/)
 * [我为何放弃Gulp与Grunt，转投npm scripts](http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part3?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
 
+### npm script
+* [npm-scripts](https://docs.npmjs.com/misc/scripts)
+* [Introduction to npm as a Build Tool](https://www.pluralsight.com/courses/npm-build-tool-introduction)
+* [react-slingshot](https://github.com/coryhouse/react-slingshot)
+
 ### gif 图片处理
 * [判断gif是否为动画](https://davidwalsh.name/detect-gif-animated)
 * [animated-gif-detector](https://github.com/mailcharts/animated-gif-detector)
