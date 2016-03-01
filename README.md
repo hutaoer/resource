@@ -46,6 +46,7 @@
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
+* [gulp系列教程](http://www.w3cplus.com/blog/tags/528.html)
 * [前端工具集成讨论](http://www.zhihu.com/question/20790576/answer/32602154)
 * [MEAN集成方案](https://github.com/linnovate/mean)
 * [fis](http://fis.baidu.com/#guider-sec)
@@ -65,7 +66,15 @@
 * [alfred](https://github.com/zenorocha/alfred-workflows)
 * [终端命令帮助工具tldr](https://github.com/tldr-pages/tldr)
 * [页面性能测试工具](http://www.webpagetest.org/)
+* [画图工具](https://cloud.smartdraw.com/)
+* [代码搜索Libraries.io](https://libraries.io/)
+* [我为何放弃Gulp与Grunt，转投npm scripts](http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part3?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
 
+### gif 图片处理
+* [判断gif是否为动画](https://davidwalsh.name/detect-gif-animated)
+* [animated-gif-detector](https://github.com/mailcharts/animated-gif-detector)
+* [bmp/gif/jpg图象最底层原理分析](http://www.cnblogs.com/glaivelee/archive/2011/10/10/2205151.html)
+* [Animated_GIF](https://en.wikipedia.org/wiki/GIF#Animated_GIF)
 
 ## 性能
 * [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
@@ -232,6 +241,7 @@
 * [ios学习资源](https://github.com/Aufree/trip-to-iOS)
 * [swift社区](http://swiftcn.io/)
 * [视频教程](http://www.elsyy.com/course/vc-63-1-1)
+* [The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
@@ -288,6 +298,7 @@
 * [剖析 Promise 之基础篇](http://shangchun.net/promise-insight.html)
 * [谈谈 ES6 的 Promise 对象](http://segmentfault.com/a/1190000002928371)
 * [nodeschool](http://nodeschool.io/zh-cn/)
+* [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/)
 
 ### node测试
 * [测试用例：supertest](https://github.com/alsotang/node-lessons/tree/master/lesson8)
@@ -425,6 +436,9 @@
 ## 翻墙
 * [hosts](http://blog.yadgen.com/?page_id=585)
 * [hosts绑定](http://laod.cn/hosts/2015-google-hosts.html)
+
+## 知识点
+* [2015-2016前端知识体系图谱](http://www.w3ctech.com/topic/1690)
 
 ## 其他语言
 
