@@ -74,6 +74,7 @@
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
 * [Introduction to npm as a Build Tool](https://www.pluralsight.com/courses/npm-build-tool-introduction)
 * [react-slingshot](https://github.com/coryhouse/react-slingshot)
+* [npm模块管理器](http://javascript.ruanyifeng.com/nodejs/npm.html)
 
 ### gif 图片处理
 * [判断gif是否为动画](https://davidwalsh.name/detect-gif-animated)
@@ -384,10 +385,10 @@
 * [GKuChan](https://github.com/GKuChan)
 * [小胡子哥](https://github.com/barretlee)
 * [2015回顾：如何选择前端开发模式](https://github.com/yutingzhao1991/blog/issues/4)
-
 * [程序员如何提升影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205756115&idx=1&sn=ed0e8cd49cdef4b95a69eafaaa5ce18f#rd)
 * [如何通过github提升自己](http://www.phodal.com/blog/use-github-grow-self/)
 * [Web Developer学习路线图](https://github.com/phodal/awesome-developer)
+* [Hilo - HTML5 互动游戏引擎](https://github.com/hiloteam/Hilo/blob/master/README_ZH.md)
 
 ## 网站推荐
 * [mozilla web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
@@ -448,6 +449,9 @@
 
 ## 知识点
 * [2015-2016前端知识体系图谱](http://www.w3ctech.com/topic/1690)
+* [前端知识普及之页面加载](https://segmentfault.com/a/1190000004466407)
+* [jQuery $(document).ready()和JavaScript onload事件](https://segmentfault.com/a/1190000003701156)
+* [使用性能API快速分析web前端性](https://segmentfault.com/a/1190000004010453)
 
 ## 其他语言
 
