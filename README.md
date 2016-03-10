@@ -234,6 +234,7 @@
 
 ### 调试
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
+* [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
@@ -305,6 +306,9 @@
 * [谈谈 ES6 的 Promise 对象](http://segmentfault.com/a/1190000002928371)
 * [nodeschool](http://nodeschool.io/zh-cn/)
 * [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/)
+
+### 插件集
+* [commander](https://www.npmjs.com/package/commander)
 
 ### node测试
 * [测试用例：supertest](https://github.com/alsotang/node-lessons/tree/master/lesson8)
