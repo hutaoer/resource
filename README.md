@@ -456,6 +456,7 @@
 * [前端知识普及之页面加载](https://segmentfault.com/a/1190000004466407)
 * [jQuery $(document).ready()和JavaScript onload事件](https://segmentfault.com/a/1190000003701156)
 * [使用性能API快速分析web前端性](https://segmentfault.com/a/1190000004010453)
+* [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 
 ## 其他语言
 
