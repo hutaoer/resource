@@ -406,6 +406,11 @@
 * [mooc](http://mooc.guokr.com/)
 * [网易公开课](http://c.open.163.com/coursera/home.htm)
 * [top javascript project](https://stats.js.org/)
+* [mobile weekly](http://mobilewebweekly.co/)
+* [node weekly](http://nodeweekly.com/)
+* [JavaScript weekly](http://javascriptweekly.com/)
+* [html5 weekly](http://html5weekly.com/issues)
+* [css weekly](http://css-weekly.com/)
 
 ### code
 * [代码片段集合](http://snippets.barretlee.com/)
