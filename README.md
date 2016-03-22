@@ -29,6 +29,7 @@
 * [知乎日报web版](https://github.com/nonoroazoro/Zhihu-Daily-Reader)
 * [轻松入门React和Webpack](https://github.com/tmallfe/tmallfe.github.io/issues/23)
 * [react初探--AlloyTeam](http://www.alloyteam.com/2015/04/react-explore/)
+* [react-howto](https://github.com/petehunt/react-howto)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -163,6 +164,7 @@
 ### redux
 * [redux](https://reduxframework.com/)
 * [Redux 核心概念](http://www.jianshu.com/p/3334467e4b32)
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 ## javascript
 * [ECMAScript 6入门](http://es6.ruanyifeng.com)
@@ -315,10 +317,7 @@
 * [用Electron开发桌面应用](http://get.ftqq.com/7870.get)
 * [中文文档](https://github.com/atom/electron/tree/master/docs-translations/zh-CN)
 
-### Systemd
-* [Node 应用的 Systemd 启动](http://www.ruanyifeng.com/blog/2016/03/node-systemd-tutorial.html)
-* [Systemd 入门教程：命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
-* [Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
+
 
 ### 插件集
 * [commander](https://www.npmjs.com/package/commander)
@@ -482,6 +481,13 @@
 
 ### go
 * [go学习指南](https://tour.go-zh.org/welcome/1)
+
+## 运维
+
+### Systemd
+* [Node 应用的 Systemd 启动](http://www.ruanyifeng.com/blog/2016/03/node-systemd-tutorial.html)
+* [Systemd 入门教程：命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
+* [Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
 
 ## 想法
 * [ideas合集](http://ideas.phodal.com/)
