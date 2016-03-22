@@ -137,6 +137,7 @@
 * [getting-started](http://webpack.github.io/docs/tutorials/getting-started/)
 * [webpack-howto](https://github.com/petehunt/webpack-howto)
 * [Webpack 怎么用](http://segmentfault.com/a/1190000002552008)
+* [如何编写 webpack 插件](http://www.alloyteam.com/2016/03/how-to-write-a-plug-in-webpack/)
 
 #### browserify
   * [browserify](http://browserify.org/)
@@ -235,6 +236,7 @@
 ### 调试
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+* [整理：手机端网页调试方案](https://segmentfault.com/a/1190000000313211)
 
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
@@ -306,6 +308,17 @@
 * [谈谈 ES6 的 Promise 对象](http://segmentfault.com/a/1190000002928371)
 * [nodeschool](http://nodeschool.io/zh-cn/)
 * [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/)
+
+
+
+### Electron
+* [用Electron开发桌面应用](http://get.ftqq.com/7870.get)
+* [中文文档](https://github.com/atom/electron/tree/master/docs-translations/zh-CN)
+
+### Systemd
+* [Node 应用的 Systemd 启动](http://www.ruanyifeng.com/blog/2016/03/node-systemd-tutorial.html)
+* [Systemd 入门教程：命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
+* [Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
 
 ### 插件集
 * [commander](https://www.npmjs.com/package/commander)
@@ -400,6 +413,7 @@
 * [高质量前端资源汇聚](http://div.io/#/welcome)
 * [奇舞周刊](http://www.75team.com/weekly/)
 * [FEX技术周刊](http://div.io/topic/1241)
+* [FEX技术周刊](http://fex.baidu.com/weekly/)
 * [伯乐在线前端小组](http://group.jobbole.com/category/tech/webfront/)
 * [伯乐在线](http://web.jobbole.com/)
 * [天猫前端](https://github.com/tmallfe/tmallfe.github.io/issues)
@@ -462,6 +476,7 @@
 * [jQuery $(document).ready()和JavaScript onload事件](https://segmentfault.com/a/1190000003701156)
 * [使用性能API快速分析web前端性](https://segmentfault.com/a/1190000004010453)
 * [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
+* [2016 JavaScript 技术栈展望](http://pinggod.com/2016/2016-JavaScript-%E6%8A%80%E6%9C%AF%E6%A0%88%E5%B1%95%E6%9C%9B/)
 
 ## 其他语言
 
