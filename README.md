@@ -83,9 +83,7 @@
 * [bmp/gif/jpg图象最底层原理分析](http://www.cnblogs.com/glaivelee/archive/2011/10/10/2205151.html)
 * [Animated_GIF](https://en.wikipedia.org/wiki/GIF#Animated_GIF)
 
-## 性能
-* [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
-* [老教授研究首屏时间？你先要知道这几点细节](http://www.alloyteam.com/2016/01/points-about-resource-loading/)
+
 
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
@@ -239,6 +237,13 @@
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 * [整理：手机端网页调试方案](https://segmentfault.com/a/1190000000313211)
+
+## 性能
+* [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
+* [老教授研究首屏时间？你先要知道这几点细节](http://www.alloyteam.com/2016/01/points-about-resource-loading/)
+
+### 性能优化
+* [预加载系列二：让File Prefetching丝丝润滑无痛无痒](http://delai.me/code/file-frefetching/)
 
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
