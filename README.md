@@ -248,6 +248,9 @@
 ### 性能优化
 * [预加载系列二：让File Prefetching丝丝润滑无痛无痒](http://delai.me/code/file-frefetching/)
 
+### js动画函数
+* [前端动画原理与实现](http://matrix.h5jun.com/slide/show?id=117)
+
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
 * [速成](http://www.cocoachina.com/industry/20140228/7897.html)
