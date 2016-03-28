@@ -6,6 +6,9 @@
 
 ## 规范
 
+### 编码
+* [前端工程师的编码遭遇战](http://ued.taobao.org/blog/2011/08/encode-war/)
+
 ### restful
 * [RESTful API 设计参考文献列表](https://github.com/aisuhua/restful-api-design-references)
 * [Resty](https://github.com/Dreampie/Resty)
