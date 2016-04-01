@@ -264,6 +264,8 @@
 * [swift社区](http://swiftcn.io/)
 * [视频教程](http://www.elsyy.com/course/vc-63-1-1)
 * [The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice)
+* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [Learn Objective-C](http://cocoadevcentral.com/d/learn_objectivec/)
 
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
