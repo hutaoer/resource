@@ -489,6 +489,7 @@
 * [使用性能API快速分析web前端性](https://segmentfault.com/a/1190000004010453)
 * [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 * [2016 JavaScript 技术栈展望](http://pinggod.com/2016/2016-JavaScript-%E6%8A%80%E6%9C%AF%E6%A0%88%E5%B1%95%E6%9C%9B/)
+* [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 
 ## 其他语言
 
