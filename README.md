@@ -323,7 +323,7 @@
 * [谈谈 ES6 的 Promise 对象](http://segmentfault.com/a/1190000002928371)
 * [nodeschool](http://nodeschool.io/zh-cn/)
 * [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/)
-
+* [promise迷你书中文版](http://www.kancloud.cn/kancloud/promises-book/44249)
 
 
 ### Electron
