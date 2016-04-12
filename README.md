@@ -324,6 +324,7 @@
 * [nodeschool](http://nodeschool.io/zh-cn/)
 * [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/)
 * [promise迷你书中文版](http://www.kancloud.cn/kancloud/promises-book/44249)
+* [获取某个目录下的所有文件名](https://www.mgenware.com/blog/?p=2716)
 
 
 ### Electron
