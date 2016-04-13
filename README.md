@@ -422,6 +422,7 @@
 * [Hilo - HTML5 互动游戏引擎](https://github.com/hiloteam/Hilo/blob/master/README_ZH.md)
 
 ## 网站推荐
+* [掘金](http://gold.xitu.io)
 * [mozilla web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [segmentfault](http://segmentfault.com/)
 * [高质量前端资源汇聚](http://div.io/#/welcome)
