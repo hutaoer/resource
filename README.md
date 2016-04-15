@@ -185,6 +185,9 @@
 * [移动端原生JS实现手指跟随的触控滑动](http://segmentfault.com/a/1190000003817077)
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 
+### MVVM
+* [利用 JavaScript 数据绑定实现一个简单的 MVVM 库](https://segmentfault.com/a/1190000004847657)
+
 ### 图片懒加载
 * [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/)
 
@@ -199,6 +202,7 @@
 * [官网](http://cn.vuejs.org/guide/)
 * [实例：vue-chart](https://github.com/Coffcer/vue-chat)
 * [Vue.js 和 Webpack](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1.html)
+* [vue.js 中文网](http://cn.vuejs.org/)
 
 ### 模块化
 * [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
@@ -254,7 +258,6 @@
 ## ios开发
 * [入门实战源码](http://itjoy.org/?p=446)
 * [速成](http://www.cocoachina.com/industry/20140228/7897.html)
-* [面向web前端的ios开发教程](http://www.atatech.org/articles/25264?rnd=1407383813)
 * [IOS开发基础学习](http://blog.csdn.net/column/details/ios-base.html)
 * [ios开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS移动应用开发新手入门指南中文版](http://dl.iplaysoft.com/files/3285.html)
@@ -290,6 +293,7 @@
 * [css实现箭头](http://ourjs.com/detail/532bc9f36922aa7e1d000001)
 * [什么是BFC](http://div.io/topic/834)
 * [css-tricks](https://css-tricks.com/)
+* [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/)
 
 ### 动画
 * [CSS Animation](https://cssanimation.rocks/)
@@ -327,12 +331,20 @@
 * [promise迷你书中文版](http://www.kancloud.cn/kancloud/promises-book/44249)
 * [获取某个目录下的所有文件名](https://www.mgenware.com/blog/?p=2716)
 
+### 进程通信
+* [进程间通信的另类实现](http://taobaofed.org/blog/2016/01/26/nodejs-ipc/)
+
+### promise
+* [promise迷你书](http://www.kancloud.cn/kancloud/promises-book)
+* []
 
 ### Electron
 * [用Electron开发桌面应用](http://get.ftqq.com/7870.get)
 * [中文文档](https://github.com/atom/electron/tree/master/docs-translations/zh-CN)
 
-
+### koa
+* [koa 实战](http://book.apebook.org/minghe/koa-action/xtemplate/xtemplate.html)
+* [ES6 中生成器以及 yield 的用法](http://nswbmw.github.io/N-club/index.html)
 
 ### 插件集
 * [commander](https://www.npmjs.com/package/commander)
@@ -340,7 +352,8 @@
 ### node测试
 * [测试用例：supertest](https://github.com/alsotang/node-lessons/tree/master/lesson8)
 * [supertest](https://github.com/visionmedia/supertest)
-* 
+* [should.js 使用](http://unitjs.com/guide/should-js.html)
+* [mocha官网](http://mochajs.org/)
 
 ### sequelize
 * [sequelize增删改查](https://cnodejs.org/topic/5201c94144e76d216a39c4dc)
