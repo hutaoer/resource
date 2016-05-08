@@ -211,7 +211,7 @@
 ### ES6
 * [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
 * [现在开始使用 ES6](http://www.jianshu.com/p/9150ec3d1512)
-
+* [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)
 
 ### 插件
 * [i5ting_ztree_toc](https://github.com/i5ting/i5ting_ztree_toc)
