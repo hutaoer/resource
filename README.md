@@ -336,7 +336,10 @@
 
 ### promise
 * [promise迷你书](http://www.kancloud.cn/kancloud/promises-book)
-* []
+
+
+### Generator
+* [生成器（Generator）——《实战 ES2015》章节试读](http://qianduan.guru/2016/04/23/generator-es2015-in-action/)
 
 ### Electron
 * [用Electron开发桌面应用](http://get.ftqq.com/7870.get)
