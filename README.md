@@ -425,6 +425,7 @@
 * [王子亭](https://jysperm.me/profile/)
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [明城](http://www.gracecode.coma/)
+* [ufei_github](https://github.com/xufei/blog)
 
 ### github
 * [xuyuan923](https://github.com/xuyuan923/FE-learning)
