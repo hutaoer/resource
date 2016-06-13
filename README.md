@@ -128,6 +128,7 @@
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
 * [js-module-7day](http://huangxuan.me/js-module-7day/)
+* [JavaScript 模块化历程](http://web.jobbole.com/83761/)
 
 ### 文档生成
 * [mkdocs](http://www.mkdocs.org/user-guide/writing-your-docs/#file-layout)
