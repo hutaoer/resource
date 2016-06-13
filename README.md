@@ -140,6 +140,10 @@
 * [webpack-howto](https://github.com/petehunt/webpack-howto)
 * [Webpack 怎么用](http://segmentfault.com/a/1190000002552008)
 * [如何编写 webpack 插件](http://www.alloyteam.com/2016/03/how-to-write-a-plug-in-webpack/)
+* [20160613_React同构直出实践总结](https://github.com/joeyguo/blog/issues/9)
+* [20160613_webpack使用优化react篇](https://github.com/lcxfs1991/blog/issues/7)
+* [20160613_webpack使用优化基本篇](https://github.com/lcxfs1991/blog/issues/2)
+* [20160613_React移动web极致优化](http://www.alloyteam.com/2016/05/react-mobile-web-optimization/)
 
 #### browserify
   * [browserify](http://browserify.org/)
@@ -426,6 +430,7 @@
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [明城](http://www.gracecode.coma/)
 * [ufei_github](https://github.com/xufei/blog)
+* [张云龙](https://github.com/fouber/blog)
 
 ### github
 * [xuyuan923](https://github.com/xuyuan923/FE-learning)
