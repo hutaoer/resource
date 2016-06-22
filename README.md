@@ -128,7 +128,7 @@
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
 * [js-module-7day](http://huangxuan.me/js-module-7day/)
-* [JavaScript 模块化历程](http://web.jobbole.com/83761/)
+* [JavaScript模块化历程](http://web.jobbole.com/83761/)
 
 ### 文档生成
 * [mkdocs](http://www.mkdocs.org/user-guide/writing-your-docs/#file-layout)
@@ -189,6 +189,7 @@
 * [常用正则表达式](http://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
 * [移动端原生JS实现手指跟随的触控滑动](http://segmentfault.com/a/1190000003817077)
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
+* [44个 Javascript 变态题解析 ](http://web.jobbole.com/86461/)
 
 ### MVVM
 * [利用 JavaScript 数据绑定实现一个简单的 MVVM 库](https://segmentfault.com/a/1190000004847657)
