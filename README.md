@@ -191,6 +191,14 @@
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 * [44个 Javascript 变态题解析 ](http://web.jobbole.com/86461/)
 
+### 原生api
+* [常用JavaScript原生API对照 jquery](https://www.zybuluo.com/jeffjade/note/221295)
+
+### 与native交互
+* [JSPatch](http://www.jspatch.com/Docs/intro)
+* [JSPatch基础用法](https://github.com/bang590/JSPatch/wiki/JSPatch-%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95)
+* [JSPatch 实现原理详解](https://github.com/bang590/JSPatch/wiki/JSPatch-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3)
+
 ### MVVM
 * [利用 JavaScript 数据绑定实现一个简单的 MVVM 库](https://segmentfault.com/a/1190000004847657)
 
