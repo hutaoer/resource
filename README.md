@@ -144,6 +144,7 @@
 * [20160613_webpack使用优化react篇](https://github.com/lcxfs1991/blog/issues/7)
 * [20160613_webpack使用优化基本篇](https://github.com/lcxfs1991/blog/issues/2)
 * [20160613_React移动web极致优化](http://www.alloyteam.com/2016/05/react-mobile-web-optimization/)
+* [webpack](http://articles/42231)
 
 #### browserify
   * [browserify](http://browserify.org/)
