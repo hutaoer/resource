@@ -21,6 +21,9 @@
 * [Jade 模板引擎使用](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)
 * [Jade中文教程](http://blog.jayself.com/2014http://www.elsyy.com/course/vc-63-1-1/07/28/Jade/)
 
+## weex
+* [weex官网](http://alibaba.github.io/weex/doc/tutorial.html)
+
 ## react&&react-native
 
 ## react
