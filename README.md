@@ -222,6 +222,7 @@
 * [实例：vue-chart](https://github.com/Coffcer/vue-chat)
 * [Vue.js 和 Webpack](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1.html)
 * [vue.js 中文网](http://cn.vuejs.org/)
+* [Vue + webpack 项目实践](http://jiongks.name/blog/just-vue/)
 
 ### 模块化
 * [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
