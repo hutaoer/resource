@@ -128,7 +128,6 @@
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
 * [js-module-7day](http://huangxuan.me/js-module-7day/)
-* [JavaScript模块化历程](http://web.jobbole.com/83761/)
 
 ### 文档生成
 * [mkdocs](http://www.mkdocs.org/user-guide/writing-your-docs/#file-layout)
@@ -163,6 +162,7 @@
 * [git diff高级技巧](http://yang3wei.github.io/blog/2013/02/15/git-diff-dai-ma-bi-jiao-de-gao-ji-ji-qiao/)
 * [Git的撤消操作 - 重置, 签出 和 撤消](http://gitbook.liuhui998.com/4_9.html)
 * [gitbook撤销操作](https://sandwind.gitbooks.io/git-pro-cn/content/git-base/revert.html)
+* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ## 前端框架
 * [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
@@ -190,6 +190,7 @@
 * [移动端原生JS实现手指跟随的触控滑动](http://segmentfault.com/a/1190000003817077)
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 * [44个 Javascript 变态题解析 ](http://web.jobbole.com/86461/)
+* [javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
 ### 原生api
 * [常用JavaScript原生API对照 jquery](https://www.zybuluo.com/jeffjade/note/221295)
@@ -221,6 +222,7 @@
 ### 模块化
 * [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
 * [前端模块化 - CommonJS、AMD与CMD](http://frend.cc/seajs/2015/02/01/seajs-commonjs-cmd-amd.html)
+* [JavaScript模块化历程](http://web.jobbole.com/83761/)
 
 ### ES6
 * [使用ES6进行开发的思考](http://otakustay.com/es6-develop-overview/)
