@@ -323,6 +323,7 @@
 * [dpi 、 dip 、分辨率、屏幕尺寸、px、density 关系以及换算](http://blog.csdn.net/dinko321/article/details/7992776)
 * [说说移动前端中 viewport](http://www.css88.com/archives/5975)
 * [一张图帮你看懂 iPhone 的屏幕分辨率](http://www.css88.com/archives/5972)
+* [iPhone屏幕尺寸、分辨率及适配](http://blog.csdn.net/phunxm/article/details/42174937)
 
 ### 动画
 * [CSS Animation](https://cssanimation.rocks/)
