@@ -315,9 +315,9 @@
 ### viewport
 * [懒人必备的移动端定宽网页适配方案](http://jerryzou.com/posts/design-for-all-mobile-resolution/)
 * [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
-* [ dpi 、 dip 、分辨率、屏幕尺寸、px、density 关系以及换算](http://blog.csdn.net/dinko321/article/details/7992776)
-* []()
-* []()
+* [dpi 、 dip 、分辨率、屏幕尺寸、px、density 关系以及换算](http://blog.csdn.net/dinko321/article/details/7992776)
+* [说说移动前端中 viewport](http://www.css88.com/archives/5975)
+* [一张图帮你看懂 iPhone 的屏幕分辨率](http://www.css88.com/archives/5972)
 
 ### 动画
 * [CSS Animation](https://cssanimation.rocks/)
