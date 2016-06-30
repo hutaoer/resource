@@ -312,6 +312,13 @@
 * [css-tricks](https://css-tricks.com/)
 * [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/)
 
+### viewport
+* [懒人必备的移动端定宽网页适配方案](http://jerryzou.com/posts/design-for-all-mobile-resolution/)
+* [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+* [ dpi 、 dip 、分辨率、屏幕尺寸、px、density 关系以及换算](http://blog.csdn.net/dinko321/article/details/7992776)
+* []()
+* []()
+
 ### 动画
 * [CSS Animation](https://cssanimation.rocks/)
 
