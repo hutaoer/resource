@@ -167,6 +167,7 @@
 * [Git的撤消操作 - 重置, 签出 和 撤消](http://gitbook.liuhui998.com/4_9.html)
 * [gitbook撤销操作](https://sandwind.gitbooks.io/git-pro-cn/content/git-base/revert.html)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [Git tips](https://github.com/git-tips/tips)
 
 ## 前端框架
 * [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
