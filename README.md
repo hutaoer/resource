@@ -37,6 +37,7 @@
 * [react初探--AlloyTeam](http://www.alloyteam.com/2015/04/react-explore/)
 * [react-howto](https://github.com/petehunt/react-howto)
 * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
+* [如何学习 React](https://github.com/petehunt/react-howto/blob/master/README-zh.md)
 
 ### redux
 * [深入理解React、Redux](http://www.jianshu.com/p/0e42799be566)
