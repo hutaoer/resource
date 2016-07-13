@@ -36,6 +36,11 @@
 * [轻松入门React和Webpack](https://github.com/tmallfe/tmallfe.github.io/issues/23)
 * [react初探--AlloyTeam](http://www.alloyteam.com/2015/04/react-explore/)
 * [react-howto](https://github.com/petehunt/react-howto)
+* [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
+
+### redux
+* [深入理解React、Redux](http://www.jianshu.com/p/0e42799be566)
+* [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 
 ### react-native
 * [官网](http://facebook.github.io/react-native/)
@@ -196,6 +201,9 @@
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 * [44个 Javascript 变态题解析 ](http://web.jobbole.com/86461/)
 * [javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+
+### 函数式编程
+* [JS函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 ### 原生api
 * [常用JavaScript原生API对照 jquery](https://www.zybuluo.com/jeffjade/note/221295)
