@@ -38,6 +38,7 @@
 * [react-howto](https://github.com/petehunt/react-howto)
 * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 * [如何学习 React](https://github.com/petehunt/react-howto/blob/master/README-zh.md)
+* [视频教程](http://react-china.org/t/reactjs/584)
 
 ### redux
 * [深入理解React、Redux](http://www.jianshu.com/p/0e42799be566)
@@ -82,6 +83,7 @@
 * [画图工具](https://cloud.smartdraw.com/)
 * [代码搜索Libraries.io](https://libraries.io/)
 * [我为何放弃Gulp与Grunt，转投npm scripts](http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part3?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
+* [开源cdn资源](http://www.bootcdn.cn/)
 
 ### npm script
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
