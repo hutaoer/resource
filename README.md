@@ -57,6 +57,7 @@
 * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
 * [react-native-lesson](https://github.com/vczero/react-native-lesson)
 * [react-web](https://github.com/taobaofed/react-web)
+* [React Native 高质量学习资料汇总](http://www.jianshu.com/p/454f2e6f28e9)
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
@@ -84,6 +85,7 @@
 * [代码搜索Libraries.io](https://libraries.io/)
 * [我为何放弃Gulp与Grunt，转投npm scripts](http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part3?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
 * [开源cdn资源](http://www.bootcdn.cn/)
+* [在线流程图](https://www.processon.com)
 
 ### npm script
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
