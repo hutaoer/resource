@@ -160,6 +160,11 @@
 * [20160613_webpack使用优化基本篇](https://github.com/lcxfs1991/blog/issues/2)
 * [20160613_React移动web极致优化](http://www.alloyteam.com/2016/05/react-mobile-web-optimization/)
 * [webpack](http://articles/42231)
+* [webpack学习笔记](http://blog.csdn.net/zhbhun/article/details/47208885)
+* [webpack性能优化](http://webpack.github.io/docs/optimization.html)
+* [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10)
+* [基于webpack的工程化方案](https://github.com/chemdemo/webpack-seed)
+* [10倍提升webpack打包效率](http://eternalsky.me/ru-he-10-bei-ti-gao-ni-de-webpack-gou-jian-xiao-lu/)
 
 #### browserify
   * [browserify](http://browserify.org/)
@@ -208,6 +213,11 @@
 * [手指滑动demo](http://codepen.io/HelloLeeChan/full/gazezm/)
 * [44个 Javascript 变态题解析 ](http://web.jobbole.com/86461/)
 * [javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+
+### es6
+* [ES6-for-humans](https://github.com/metagrover/ES6-for-humans)
+* [ECMAScript 6 扫盲](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
+
 
 ### 函数式编程
 * [JS函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
