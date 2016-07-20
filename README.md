@@ -40,6 +40,7 @@
 * [如何学习 React](https://github.com/petehunt/react-howto/blob/master/README-zh.md)
 * [视频教程](http://react-china.org/t/reactjs/584)
 * [reactnews](http://reactjsnewsletter.com/)
+* [learning-react](https://github.com/yiminghe/learning-react)
 
 ### redux
 * [深入理解React、Redux](http://www.jianshu.com/p/0e42799be566)
