@@ -165,6 +165,9 @@
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10)
 * [基于webpack的工程化方案](https://github.com/chemdemo/webpack-seed)
 * [10倍提升webpack打包效率](http://eternalsky.me/ru-he-10-bei-ti-gao-ni-de-webpack-gou-jian-xiao-lu/)
+* [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-source-analyse.html)
+* [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604?_ea=868190)
+* [Webpack 筆記](http://andyyou.github.io/javascript/2015/07/23/webpack.html)
 
 #### browserify
   * [browserify](http://browserify.org/)
