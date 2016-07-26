@@ -168,6 +168,7 @@
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-source-analyse.html)
 * [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604?_ea=868190)
 * [Webpack 筆記](http://andyyou.github.io/javascript/2015/07/23/webpack.html)
+* [30分钟手把手教你学webpack实战](http://www.cnblogs.com/tugenhua0707/p/4793265.html)
 
 #### browserify
   * [browserify](http://browserify.org/)
