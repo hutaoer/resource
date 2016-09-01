@@ -396,7 +396,7 @@
 
 ### promise
 * [promise迷你书](http://www.kancloud.cn/kancloud/promises-book)
-
+* [JavaScript Promises](http://www.html5rocks.com/zh/tutorials/es6/promises/)
 
 ### Generator
 * [生成器（Generator）——《实战 ES2015》章节试读](http://qianduan.guru/2016/04/23/generator-es2015-in-action/)
