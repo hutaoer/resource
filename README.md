@@ -41,6 +41,9 @@
 * [视频教程](http://react-china.org/t/reactjs/584)
 * [reactnews](http://reactjsnewsletter.com/)
 * [learning-react](https://github.com/yiminghe/learning-react)
+* [性能日历之 React diff算法](http://www.zcfy.cc/article/1183)
+  - React的性能损耗模型也是简单易懂的：每次setState将重新渲染整个子树。如果你想提高性能，那么就在尽量低的层级调用setState，同时，在大的子树上使用shouldComponentUpdate来组止不必要的重新渲染。
+* [如何编写你自己的 Virtual DOM](http://www.zcfy.cc/article/1136)
 
 ### redux
 * [深入理解React、Redux](http://www.jianshu.com/p/0e42799be566)
@@ -143,6 +146,7 @@
 * [umd](https://github.com/umdjs/umd)
 * [amd](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
 * [js-module-7day](http://huangxuan.me/js-module-7day/)
+* [ECMAScript 6 module and bundlers](http://www.meow.re/original/2016/08/30/es6-module-and-bundlers/)
 
 ### 文档生成
 * [mkdocs](http://www.mkdocs.org/user-guide/writing-your-docs/#file-layout)
@@ -346,6 +350,7 @@
 * [什么是BFC](http://div.io/topic/834)
 * [css-tricks](https://css-tricks.com/)
 * [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/)
+* [CSS 3D Panorama - 淘宝造物节技术剖析](https://aotu.io/notes/2016/08/24/2016-8-24-css-3d-panorama/)
 
 ### viewport
 * [懒人必备的移动端定宽网页适配方案](http://jerryzou.com/posts/design-for-all-mobile-resolution/)
