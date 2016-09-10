@@ -44,6 +44,7 @@
 * [性能日历之 React diff算法](http://www.zcfy.cc/article/1183)
   - React的性能损耗模型也是简单易懂的：每次setState将重新渲染整个子树。如果你想提高性能，那么就在尽量低的层级调用setState，同时，在大的子树上使用shouldComponentUpdate来组止不必要的重新渲染。
 * [如何编写你自己的 Virtual DOM](http://www.zcfy.cc/article/1136)
+* [react组件性能优化探索实践](http://imweb.io/topic/577512fe732b4107576230b9)
 
 ### redux
 * [深入理解React、Redux](http://www.jianshu.com/p/0e42799be566)
