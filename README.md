@@ -24,6 +24,11 @@
 ## weex
 * [weex官网](http://alibaba.github.io/weex/doc/tutorial.html)
 
+
+## 工程化
+* [浅析前端工程化](http://www.cnblogs.com/ihardcoder/p/5378290.html)
+* [前端工程化-构建](http://www.cnblogs.com/ihardcoder/p/5383394.html)
+
 ## react&&react-native
 
 ## react
@@ -64,6 +69,7 @@
 * [react-native-lesson](https://github.com/vczero/react-native-lesson)
 * [react-web](https://github.com/taobaofed/react-web)
 * [React Native 高质量学习资料汇总](http://www.jianshu.com/p/454f2e6f28e9)
+* [写给iOS开发者的React Native学习路线](http://blog.talisk.cn/blog/2016/08/13/RN-Learning-path-for-iOS-developer/)
 
 ## 工具
 * [gulp](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
@@ -92,6 +98,9 @@
 * [我为何放弃Gulp与Grunt，转投npm scripts](http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part3?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
 * [开源cdn资源](http://www.bootcdn.cn/)
 * [在线流程图](https://www.processon.com)
+
+### mock
+* [阿里妈妈rap](http://thx.github.io/RAP/study.html)
 
 ### npm script
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
@@ -174,6 +183,9 @@
 * [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604?_ea=868190)
 * [Webpack 筆記](http://andyyou.github.io/javascript/2015/07/23/webpack.html)
 * [30分钟手把手教你学webpack实战](http://www.cnblogs.com/tugenhua0707/p/4793265.html)
+* [Webpack从入门到上线](http://yincheng.site/webpack)
+* [gulp & webpack整合，鱼与熊掌我都要！](http://www.jianshu.com/p/9724c47b406c)
+* 
 
 #### browserify
   * [browserify](http://browserify.org/)
@@ -376,6 +388,7 @@
 * [弹性方框模型 (Flexible Box Model) 快速入门](http://www.html5rocks.com/zh/tutorials/flexbox/quick/)
 * [学习CSS布局](http://zh.learnlayout.com/flexbox.html)
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties?utm_source=CSS-Weekly&utm_campaign=Issue-158&utm_medium=web)
+* [一个完整的Flexbox指南](http://www.w3cplus.com/css3/a-guide-to-flexbox-new.html)
 
 ### feature and hack
 * [margin-top合并fix](http://www.jb51.net/css/75789.html)
@@ -464,6 +477,9 @@
 * [慕课网](http://www.imooc.com/)
 * [牛客网](http://www.nowcoder.com/271221)
 * [麦子学院](http://www.maiziedu.com/course/python/)
+
+## 算法
+* [十大经典排序算法](http://gold.xitu.io/post/57dcd394a22b9d00610c5ec8)
 
 ## 读书
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
@@ -576,6 +592,7 @@
 * [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 * [2016 JavaScript 技术栈展望](http://pinggod.com/2016/2016-JavaScript-%E6%8A%80%E6%9C%AF%E6%A0%88%E5%B1%95%E6%9C%9B/)
 * [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+* [2016年里做前端是怎样一种体验](https://segmentfault.com/a/1190000007083024)
 
 ## 其他语言
 
