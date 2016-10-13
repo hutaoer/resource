@@ -185,7 +185,7 @@
 * [30分钟手把手教你学webpack实战](http://www.cnblogs.com/tugenhua0707/p/4793265.html)
 * [Webpack从入门到上线](http://yincheng.site/webpack)
 * [gulp & webpack整合，鱼与熊掌我都要！](http://www.jianshu.com/p/9724c47b406c)
-* 
+* [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916)
 
 #### browserify
   * [browserify](http://browserify.org/)
