@@ -391,6 +391,7 @@
 * [学习CSS布局](http://zh.learnlayout.com/flexbox.html)
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties?utm_source=CSS-Weekly&utm_campaign=Issue-158&utm_medium=web)
 * [一个完整的Flexbox指南](http://www.w3cplus.com/css3/a-guide-to-flexbox-new.html)
+* [flexbugs](https://github.com/philipwalton/flexbugs)
 
 ### feature and hack
 * [margin-top合并fix](http://www.jb51.net/css/75789.html)
