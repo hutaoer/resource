@@ -98,6 +98,8 @@
 * [我为何放弃Gulp与Grunt，转投npm scripts](http://www.infoq.com/cn/news/2016/02/gulp-grunt-npm-scripts-part3?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text)
 * [开源cdn资源](http://www.bootcdn.cn/)
 * [在线流程图](https://www.processon.com)
+* [eslint配置](http://eslint.cn/docs/user-guide/configuring)
+* [利用 ESLint 检查代码质量](http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
 
 ### mock
 * [阿里妈妈rap](http://thx.github.io/RAP/study.html)
