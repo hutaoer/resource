@@ -188,6 +188,7 @@
 * [Webpack从入门到上线](http://yincheng.site/webpack)
 * [gulp & webpack整合，鱼与熊掌我都要！](http://www.jianshu.com/p/9724c47b406c)
 * [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916)
+* [webpakc指南](https://webpack.toobug.net/zh-cn/)
 
 #### browserify
   * [browserify](http://browserify.org/)
