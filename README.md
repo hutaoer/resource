@@ -416,6 +416,7 @@
 
 ### 进程通信
 * [进程间通信的另类实现](http://taobaofed.org/blog/2016/01/26/nodejs-ipc/)
+* [Node.js 多进程实战](https://www.ibm.com/developerworks/cn/opensource/os-cn-nodejs-practice/)
 
 ### promise
 * [promise迷你书](http://www.kancloud.cn/kancloud/promises-book)
