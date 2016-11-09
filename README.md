@@ -414,6 +414,10 @@
 * [promise迷你书中文版](http://www.kancloud.cn/kancloud/promises-book/44249)
 * [获取某个目录下的所有文件名](https://www.mgenware.com/blog/?p=2716)
 
+### 常用工具包
+* cli-color: 输出带颜色文字
+* 
+
 ### 进程通信
 * [进程间通信的另类实现](http://taobaofed.org/blog/2016/01/26/nodejs-ipc/)
 * [Node.js 多进程实战](https://www.ibm.com/developerworks/cn/opensource/os-cn-nodejs-practice/)
@@ -623,3 +627,5 @@
 
 ## 我的想法
 * 熟人微信推送，微信机器人 
+* gitconfig 一键配置
+* 
