@@ -378,6 +378,7 @@
 
 ### 动画
 * [CSS Animation](https://cssanimation.rocks/)
+* [Hilo](https://github.com/hiloteam/Hilo)
 
 ### SVG
 * [SVG进阶 | SVG过滤器（SVG Filters）](http://www.html5cn.org/article-8630-1.html)
