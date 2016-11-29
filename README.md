@@ -273,6 +273,7 @@
 * [Vue.js 和 Webpack](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1.html)
 * [vue.js 中文网](http://cn.vuejs.org/)
 * [Vue + webpack 项目实践](http://jiongks.name/blog/just-vue/)
+* [Vue.js——60分钟快速入门](http://www.cnblogs.com/keepfool/p/5619070.html)
 
 ### 模块化
 * [从零开始构建JavaScript模块化加载器](http://wwsun.me/posts/creating-javascript-modules-loader.html)
@@ -308,6 +309,10 @@
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 * [Retina屏的移动设备如何实现真正1px的线？](http://jinlong.github.io/2015/05/24/css-retina-hairlines/)
 * [移动Web开发技巧汇](http://www.html-js.com/article/Front-end-sharing%202983)
+
+### 移动框架
+* [Framework7](https://github.com/nolimits4web/Framework7)
+* [VUX 移动前端框架使用文档](https://owlaford.gitbooks.io/vux-mobile-framework/content/index.html)
 
 ### 转场动画
 * [mobilebone转场](http://www.zhangxinxu.com/wordpress/2014/10/mobilebone-js-mobile-web-app-core/)
@@ -553,7 +558,7 @@
 * [python电子书](http://www.kancloud.cn/tag/Python)
 
 ## php
-* [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085) 
+* [让程序员不再苦逼的四大神器:xdebug,XHProf,SocketLog,OneAPM](http://www.v2ex.com/t/202085)
 * [yii文档](http://www.yiiframework.com/doc/guide/1.1/zh_cn/changes)
 * [laravel中文文档](http://laravel-china.org/)
 
@@ -620,6 +625,9 @@
 * [v2ex](http://www.v2ex.com/)
 * [微信你的Kindle](http://xun.im/2015/07/19/weixin-robot-vs-kindle/)
 * [微信你的kindle in v2ex](https://www.v2ex.com/t/215601)
+
+## fun
+* [](http://xv.rkclf.com/)
 
 ## 我的想法
 * 熟人微信推送，微信机器人 
