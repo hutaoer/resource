@@ -116,13 +116,12 @@
 * [bmp/gif/jpg图象最底层原理分析](http://www.cnblogs.com/glaivelee/archive/2011/10/10/2205151.html)
 * [Animated_GIF](https://en.wikipedia.org/wiki/GIF#Animated_GIF)
 
-
-
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
 * [解决sublimeText3无法安装插件问题](http://blog.csdn.net/zhyh1986/article/details/40678263)
 * [sublime-evernote](http://www.jianshu.com/p/0add426fdd26)
 * [evernote token页面](https://app.yinxiang.com/api/DeveloperToken.action)
+* [sublime 主题](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
 
 ### 静态博客
 * [simple](https://github.com/isnowfy/simple.git)
