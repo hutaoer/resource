@@ -322,6 +322,7 @@
 
 ### 性能优化
 * [预加载系列二：让File Prefetching丝丝润滑无痛无痒](http://delai.me/code/file-frefetching/)
+* [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/)
 
 ### js动画函数
 * [前端动画原理与实现](http://matrix.h5jun.com/slide/show?id=117)
@@ -425,6 +426,7 @@
 ### promise
 * [promise迷你书](http://www.kancloud.cn/kancloud/promises-book)
 * [JavaScript Promises](http://www.html5rocks.com/zh/tutorials/es6/promises/)
+* [We have a problem with promises](http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/)
 
 ### Generator
 * [生成器（Generator）——《实战 ES2015》章节试读](http://qianduan.guru/2016/04/23/generator-es2015-in-action/)
@@ -580,6 +582,8 @@
 * [nginx安装遇到的坑](http://blog.csdn.net/guodongxiaren/article/details/40950249)
 * [rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
 * [nginx教程](http://blog.sina.com.cn/s/blog_6d579ff40100wi7p.html)
+* [Nginx配置小记](http://arccode.net/2015/02/27/Nginx%E9%85%8D%E7%BD%AE%E5%B0%8F%E8%AE%B0/)
+* [Nginx 配置简述](http://www.barretlee.com/blog/2016/11/19/nginx-configuration-start/)
 
 ## linux
 * [学习Linux你必须知道的那些事儿](http://www.imooc.com/article/1375)
@@ -602,6 +606,7 @@
 * [2016 JavaScript 技术栈展望](http://pinggod.com/2016/2016-JavaScript-%E6%8A%80%E6%9C%AF%E6%A0%88%E5%B1%95%E6%9C%9B/)
 * [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [2016年里做前端是怎样一种体验](https://segmentfault.com/a/1190000007083024)
+* [2017 年你应该学习的编程语言、框架和工具](https://zhuanlan.zhihu.com/p/24369470)
 
 ## 其他语言
 
