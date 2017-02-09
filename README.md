@@ -28,6 +28,7 @@
 ## 工程化
 * [浅析前端工程化](http://www.cnblogs.com/ihardcoder/p/5378290.html)
 * [前端工程化-构建](http://www.cnblogs.com/ihardcoder/p/5383394.html)
+* [前端工程化体系](http://roshanca.com/2017/front-end-engineering-system)
 
 ## react&&react-native
 
@@ -100,6 +101,7 @@
 * [在线流程图](https://www.processon.com)
 * [eslint配置](http://eslint.cn/docs/user-guide/configuring)
 * [利用 ESLint 检查代码质量](http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
+* [标你妹啊](http://www.biaonimeia.com/)
 
 ### mock
 * [阿里妈妈rap](http://thx.github.io/RAP/study.html)
@@ -491,6 +493,7 @@
 
 ## 算法
 * [十大经典排序算法](http://gold.xitu.io/post/57dcd394a22b9d00610c5ec8)
+* [leetcode](https://siddontang.gitbooks.io/leetcode-solution/content/array/remove_element.html)
 
 ## 读书
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
