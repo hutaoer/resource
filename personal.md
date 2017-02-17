@@ -16,3 +16,16 @@
 * 学历、学位原件和复印件
 * 身份证原件和复印件
 * 数据线、电源线
+
+
+## 
+3.9.3
+Registered name:
+Tao Bao (China) Software Co., Ltd 
+License key:
+
+3d03e60ea6b14b8a9e
+
+
+## zsh
+* 进入终端后，先输入 zsh 
