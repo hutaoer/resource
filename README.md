@@ -28,6 +28,7 @@
 ## 工程化
 * [浅析前端工程化](http://www.cnblogs.com/ihardcoder/p/5378290.html)
 * [前端工程化-构建](http://www.cnblogs.com/ihardcoder/p/5383394.html)
+* [前端工程化体系](http://roshanca.com/2017/front-end-engineering-system)
 
 ## react&&react-native
 
@@ -100,6 +101,7 @@
 * [在线流程图](https://www.processon.com)
 * [eslint配置](http://eslint.cn/docs/user-guide/configuring)
 * [利用 ESLint 检查代码质量](http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
+* [标你妹啊](http://www.biaonimeia.com/)
 
 ### mock
 * [阿里妈妈rap](http://thx.github.io/RAP/study.html)
@@ -116,13 +118,12 @@
 * [bmp/gif/jpg图象最底层原理分析](http://www.cnblogs.com/glaivelee/archive/2011/10/10/2205151.html)
 * [Animated_GIF](https://en.wikipedia.org/wiki/GIF#Animated_GIF)
 
-
-
 ### 编辑器
 * [sublime 终端打开目录或文件](http://www.zhihu.com/question/19976788)
 * [解决sublimeText3无法安装插件问题](http://blog.csdn.net/zhyh1986/article/details/40678263)
 * [sublime-evernote](http://www.jianshu.com/p/0add426fdd26)
 * [evernote token页面](https://app.yinxiang.com/api/DeveloperToken.action)
+* [sublime 主题](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
 
 ### 静态博客
 * [simple](https://github.com/isnowfy/simple.git)
@@ -328,6 +329,7 @@
 
 ### 性能优化
 * [预加载系列二：让File Prefetching丝丝润滑无痛无痒](http://delai.me/code/file-frefetching/)
+* [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/)
 
 ### js动画函数
 * [前端动画原理与实现](http://matrix.h5jun.com/slide/show?id=117)
@@ -431,6 +433,7 @@
 ### promise
 * [promise迷你书](http://www.kancloud.cn/kancloud/promises-book)
 * [JavaScript Promises](http://www.html5rocks.com/zh/tutorials/es6/promises/)
+* [We have a problem with promises](http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/)
 
 ### Generator
 * [生成器（Generator）——《实战 ES2015》章节试读](http://qianduan.guru/2016/04/23/generator-es2015-in-action/)
@@ -495,6 +498,7 @@
 
 ## 算法
 * [十大经典排序算法](http://gold.xitu.io/post/57dcd394a22b9d00610c5ec8)
+* [leetcode](https://siddontang.gitbooks.io/leetcode-solution/content/array/remove_element.html)
 
 ## 读书
 * [Web性能权威指南](http://www.java1234.com/a/javabook/webbase/2014/0917/2893.html)
@@ -586,6 +590,8 @@
 * [nginx安装遇到的坑](http://blog.csdn.net/guodongxiaren/article/details/40950249)
 * [rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
 * [nginx教程](http://blog.sina.com.cn/s/blog_6d579ff40100wi7p.html)
+* [Nginx配置小记](http://arccode.net/2015/02/27/Nginx%E9%85%8D%E7%BD%AE%E5%B0%8F%E8%AE%B0/)
+* [Nginx 配置简述](http://www.barretlee.com/blog/2016/11/19/nginx-configuration-start/)
 
 ## linux
 * [学习Linux你必须知道的那些事儿](http://www.imooc.com/article/1375)
@@ -608,6 +614,7 @@
 * [2016 JavaScript 技术栈展望](http://pinggod.com/2016/2016-JavaScript-%E6%8A%80%E6%9C%AF%E6%A0%88%E5%B1%95%E6%9C%9B/)
 * [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [2016年里做前端是怎样一种体验](https://segmentfault.com/a/1190000007083024)
+* [2017 年你应该学习的编程语言、框架和工具](https://zhuanlan.zhihu.com/p/24369470)
 
 ## 其他语言
 
