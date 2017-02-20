@@ -32,6 +32,11 @@ License key:
 * 版本：10.0.5
 * 账号：zuoyu.ht homet
 
+### cleanapp
+* 版本：5.1
+* key: https://www.douban.com/note/554516068/
+* EDU-CAP4-1X2A-6WE5-YXMB-3G62-L85F-FCA3-2PW
+
 ## zsh
 * 进入终端后，先输入 zsh 
 
