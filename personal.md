@@ -10,6 +10,8 @@
 ## 工具
 * charles
 * webstorm
+* zuoyu.ht
+* homet
 
 ## 东西
 * 学历证书
@@ -26,6 +28,10 @@ License key:
 
 3d03e60ea6b14b8a9e
 
+### webstorm 
+* 版本：10.0.5
+* 账号：zuoyu.ht homet
 
 ## zsh
 * 进入终端后，先输入 zsh 
+
