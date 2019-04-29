@@ -312,6 +312,7 @@
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 * [Retina屏的移动设备如何实现真正1px的线？](http://jinlong.github.io/2015/05/24/css-retina-hairlines/)
 * [移动Web开发技巧汇](http://www.html-js.com/article/Front-end-sharing%202983)
+* [H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389)
 
 ### PWA
 * [PWA 在饿了么的实践经验](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485088&idx=1&sn=b07310538fcc47ab79d46eaf31d75daa&chksm=97236462a054ed7414738a90b33b0f6e3c3b990338023dc0cc4c887eadc1186d2c1e9eae8c0e&mpshare=1&scene=23&srcid=0319oxKWyOY1Ig0DD1dFDo6V#rd)
