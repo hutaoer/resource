@@ -314,6 +314,9 @@
 * [移动Web开发技巧汇](http://www.html-js.com/article/Front-end-sharing%202983)
 * [H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389)
 
+### 适配
+* [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+
 ### PWA
 * [PWA 在饿了么的实践经验](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485088&idx=1&sn=b07310538fcc47ab79d46eaf31d75daa&chksm=97236462a054ed7414738a90b33b0f6e3c3b990338023dc0cc4c887eadc1186d2c1e9eae8c0e&mpshare=1&scene=23&srcid=0319oxKWyOY1Ig0DD1dFDo6V#rd)
 
@@ -329,6 +332,7 @@
 * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 * [整理：手机端网页调试方案](https://segmentfault.com/a/1190000000313211)
 * [Eruda 是一个专为手机网页前端设计的调试面板](https://github.com/liriliri/eruda/blob/master/doc/README_CH.md)
+* [微信webview调试spy-debugger](https://github.com/wuchangming/spy-debugger)
 
 ## 性能
 * [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
