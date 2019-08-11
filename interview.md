@@ -1,24 +1,32 @@
 # 社招面试
 
 ### 初级
-* 常见伪类元素以及使用场景。
-* 常用的垂直居中写法
 * 盒模型：border-box,content-box。盒模型，margin问题如何解决？
-* float
-* script async defer 区别
-* git merge 和 git rebase 区别
+* css 中的图片是否会加载？@media query 的时候呢？`<img src='的时候呢'>`
+* 常见伪类元素以及使用场景。
+  - 去除浮动。
+  - display:inline.
+  - 
 * 跨域问题如何解决，哪几种方案？
+  - 
 * es5中，js 的作用域。函数式声明和变量声明后赋值，有什么区别？
+  - 接着js闭包
+  - 
 * js 原型链，如何实现继承。
 * js 遍历一个对象的方法有哪些？
   - 使用 for in 循环遍历对象的属性时，原型链上的所有属性都将被访问。
   - 推荐总是使用 hasOwnProperty 方法，这将会避免原型对象扩展带来的干扰。
+  - 
 * es6 解构，设置默认值。`let {b = []} = {b:null}`
-* css 中的图片是否会加载？@media query 的时候呢？`<img src='的时候呢'>`
+  - 
 * 常见的css居中方法。
+* float
+* script async defer 区别。no
+* git merge 和 git rebase 区别。no
 
 ### 高级
 * 函数的节流和防抖。
+  - 
 * reflow和repaint是什么？如何避免
   - 重排一定引起重绘，重绘不一定引起重排。
   - 引起重排：窗口大小、元素尺寸、字体大小、添加或删除dom节点、激活伪类、查询元素属性等。
