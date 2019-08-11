@@ -8,6 +8,11 @@
 * script async defer 区别
 * git merge 和 git rebase 区别
 * 跨域问题如何解决，哪几种方案？
+  - jsonp
+  - 其实不然，因为在CORS中，所有的跨域请求被分为了两种类型，一种是简单请求，一种是复杂请求 (严格来说应该叫‘需预检请求’)；复杂请求，必须在正式发送请求前先发送一个OPTIONS方法的请求已得到服务器的同意，若没有得到服务器的同意，浏览器不会发送正式请求；
+  - iframe跨域
+  - postmessage
+  - window
 * es5中，js 的作用域。函数式声明和变量声明后赋值，有什么区别？
 * js 原型链，如何实现继承。
 * js 遍历一个对象的方法有哪些？
@@ -28,10 +33,20 @@
   - 如何避免：避免使用table，避免多次样式层级，动画效果使用到position为absolute的元素上，不使用css表达式。
   - 通过class来操作样式，不要频繁修改。避免频繁操作DOM，创建一个`documentFragment`，在他上面做所有的操作，最后插入。
   - 先设置元素display:none，然后执行操作，最后再显示出来。display:none的时候，不会引起重排和重绘。
-
 * vue 双向绑定
+  - 目前大概有三种实现方式：发布订阅模式，Angular 的脏查机制，数据劫持。
+  - Vue 则采用的是数据劫持与发布订阅相结合的方式实现双向绑定，数据劫持主要通过 Object.defineProperty 来实现。
+  - Observer 监听器：用来监听属性的变化通知订阅者
+  - Watcher 订阅者：收到属性的变化，然后更新视图
+  - Compile 解析器：解析指令，初始化模版，绑定订阅者
+  - 单向数据流和双向绑定的优缺点是什么？
+* 对promise的理解
+  - 
 * vue dom diff 算法
 * nextTick，干啥用的？
+  - 主线程的执行过程就是一个 tick。规范中规定 task 分为两大类，分别是 macro task 和 micro task，并且每个 macro task 结束后，都要清空所有的 micro task。
+  - 我们了解到数据的变化到 DOM 的重新渲染是一个异步过程，发生在下一个 tick。
+  - 在浏览器环境中，常见的 macro task 有 setTimeout、MessageChannel、postMessage、setImmediate；常见的 micro task 有 MutationObsever 和 Promise.then。
 
 ### 开放题
 * react或者vue里面，监听window滚动，设置fixed
