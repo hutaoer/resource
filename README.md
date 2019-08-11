@@ -182,6 +182,7 @@
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10)
 * [基于webpack的工程化方案](https://github.com/chemdemo/webpack-seed)
 * [10倍提升webpack打包效率](http://eternalsky.me/ru-he-10-bei-ti-gao-ni-de-webpack-gou-jian-xiao-lu/)
+* [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://gold.xitu.io/entry/5769f8dc128fe10057d2f4ae)
 * [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-source-analyse.html)
 * [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604?_ea=868190)
 * [Webpack 筆記](http://andyyou.github.io/javascript/2015/07/23/webpack.html)
@@ -190,6 +191,7 @@
 * [gulp & webpack整合，鱼与熊掌我都要！](http://www.jianshu.com/p/9724c47b406c)
 * [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916)
 * [webpakc指南](https://webpack.toobug.net/zh-cn/)
+* [webpack中关于样式的处理](https://github.com/zhengweikeng/blog/issues/9)
 
 #### browserify
   * [browserify](http://browserify.org/)
@@ -310,6 +312,13 @@
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 * [Retina屏的移动设备如何实现真正1px的线？](http://jinlong.github.io/2015/05/24/css-retina-hairlines/)
 * [移动Web开发技巧汇](http://www.html-js.com/article/Front-end-sharing%202983)
+* [H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389)
+
+### 适配
+* [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+
+### PWA
+* [PWA 在饿了么的实践经验](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485088&idx=1&sn=b07310538fcc47ab79d46eaf31d75daa&chksm=97236462a054ed7414738a90b33b0f6e3c3b990338023dc0cc4c887eadc1186d2c1e9eae8c0e&mpshare=1&scene=23&srcid=0319oxKWyOY1Ig0DD1dFDo6V#rd)
 
 ### 移动框架
 * [Framework7](https://github.com/nolimits4web/Framework7)
@@ -322,6 +331,8 @@
 * [移动端调试](http://www.alloyteam.com/2015/03/mobile-web-debug-tool-rosin/)
 * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 * [整理：手机端网页调试方案](https://segmentfault.com/a/1190000000313211)
+* [Eruda 是一个专为手机网页前端设计的调试面板](https://github.com/liriliri/eruda/blob/master/doc/README_CH.md)
+* [微信webview调试spy-debugger](https://github.com/wuchangming/spy-debugger)
 
 ## 性能
 * [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://segmentfault.com/a/1190000004292479)
@@ -349,6 +360,9 @@
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [Learn Objective-C](http://cocoadevcentral.com/d/learn_objectivec/)
 
+## mac
+* [mac十个快捷键](https://sspai.com/post/30902)
+
 ## 安卓开发
 * [自学安卓](http://segmentfault.com/a/1190000002564333)
 
@@ -374,6 +388,9 @@
 * [css-tricks](https://css-tricks.com/)
 * [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/)
 * [CSS 3D Panorama - 淘宝造物节技术剖析](https://aotu.io/notes/2016/08/24/2016-8-24-css-3d-panorama/)
+
+### 排版
+* [深入了解CSS字体度量，行高和vertical-align](http://www.w3cplus.com/css/css-font-metrics-line-height-and-vertical-align.html)
 
 ### viewport
 * [懒人必备的移动端定宽网页适配方案](http://jerryzou.com/posts/design-for-all-mobile-resolution/)

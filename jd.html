@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+<body>
+<div id="app">
+  <input v-model="url" placeholder="请输入链接后点击以下链接进入" style="width: 200px;">
+  <p><a v-bind:href="url" target="_blank">{{url}}</a></p>
+</div>
+<script>
+  var app = new Vue({
+    el: '#app',
+    data: {
+      url: ''
+    }
+  })
+</script>
+</body>
+</html>
