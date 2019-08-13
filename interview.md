@@ -1,7 +1,15 @@
 # 社招面试
 
 ### 初级
-* 盒模型：border-box,content-box。盒模型，margin问题如何解决？
+
+#### 盒模型：border-box,content-box。盒模型，margin问题如何解决？
+- 基本概念：标准模型+ IE模型(区别)
+- CSS如何设置这两种模型
+- JS如何设置获取盒子模型对应的宽和高
+- 实例题(根据盒模型解释边距重叠)
+- BFC(边距重叠解决方案)
+- 参考：https://segmentfault.com/a/1190000015235886
+
 * css 中的图片是否会加载？@media query 的时候呢？`<img src='的时候呢'>`
 * 常见伪类元素以及使用场景。
   - 去除浮动。
@@ -54,6 +62,15 @@
   - 主线程的执行过程就是一个 tick。规范中规定 task 分为两大类，分别是 macro task 和 micro task，并且每个 macro task 结束后，都要清空所有的 micro task。
   - 我们了解到数据的变化到 DOM 的重新渲染是一个异步过程，发生在下一个 tick。
   - 在浏览器环境中，常见的 macro task 有 setTimeout、MessageChannel、postMessage、setImmediate；常见的 micro task 有 MutationObsever 和 Promise.then。
+* react 编码需要注意的
+  - 避免使用 {…this.props}，按需传递 props，传递的参数越多，层次越深，都会拖慢 SCU 的执行过程
+  - this.event = this.event.bind(this) (将方法的bind一律置于constructor)
+  - 尽量使用 const element 无状态组件
+  - map 输出时，组件需要添加 key，且 key 必须是唯一的
+  - 如果可以，尽量减少使用 setTimeout, setInterval 等函数
+  - props 和 state 的数据尽量维持扁平化
+  - 组件渲染时，尽可能减少最终生成 dom 的数量，比如使用 return null，而非 display: none 来控制组件的显示隐藏
+  - 拆分组件，复杂的逻辑做好分层，不要在一个组件内完成
 
 ### 开放题
 * react或者vue里面，监听window滚动，设置fixed
