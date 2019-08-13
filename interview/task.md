@@ -1,0 +1,22 @@
+# 事件机制
+
+## 浏览器的异步任务的执行机制
+* 异步任务是由浏览器执行的，不管是AJAX请求，还是setTimeout等API，浏览器内核会在其它线程中执行这些操作，当操作完成后，将操作结果以及事先定义的回调函数放入 JavaScript 主线程的任务队列中。
+* JavaScript 主线程会在执行栈清空后，读取任务队列，读取到任务队列中的函数后，将该函数入栈，一直运行直到执行栈清空，再次去读取任务队列，不断循环。
+* 当主线程阻塞时，任务队列仍然是能够被推入任务的。这也就是为什么当页面的 JavaScript 进程阻塞时，我们触发的点击等事件，会在进程恢复后依次执行。
+* 原因是任务队列分为 macrotasks 和 microtasks，而Promise中的then方法的函数会被推入 microtasks 队列，而setTimeout的任务会被推入 macrotasks 队列。在每一次事件循环中，macrotask 只会提取一个执行，而 microtask 会一直提取，直到 microtasks 队列清空。
+* "任务队列"是一个先进先出的数据结构，排在前面的事件，优先被主线程读取。主线程的读取过程基本上是自动的，只要执行栈一清空，"任务队列"上第一位的事件就自动进入主线程。但是，由于存在后文提到的"定时器"功能，主线程首先要检查一下执行时间，某些事件只有到了规定的时间，才能返回主线程。
+
+## Nodejs 中的Event Loop
+* Node.js还提供了另外两个与"任务队列"有关的方法：process.nextTick和setImmediate。
+* process.nextTick方法可以在`当前"执行栈"的尾部`----下一次Event Loop（主线程读取"任务队列"）之前----触发回调函数。也就是说，它指定的任务总是发生在所有异步任务之前。
+* setImmediate方法则是在当前"任务队列"的尾部添加事件，也就是说，它指定的任务总是在下一次Event Loop时执行，这与setTimeout(fn, 0)很像。请看下面的例子（via StackOverflow）。
+* 由于process.nextTick指定的回调函数是在本次"事件循环"触发，而setImmediate指定的是在下次"事件循环"触发，所以很显然，前者总是比后者发生得早，而且执行效率也高（因为不用检查"任务队列"）。
+* 参考：http://www.ruanyifeng.com/blog/2014/10/event-loop.html
+
+## Macrotask的任务
+* setTimeout，setInteveral，script标签，I/O，UI渲染
+
+## Microtask
+* Promise，async/await，process.nextTick，Object.observe，MutationObserver
+* 即使同样是Microtask，内部也是有优先级的差别的，例如NodeJS的实现上，process.nextTick比Promise要先执行。
