@@ -9,6 +9,9 @@
 * 读取大文件的方法
 * 处理二进制文件？？
 
+## event loop
+* 
+
 ## yield, generater
 
 

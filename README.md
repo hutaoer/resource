@@ -659,7 +659,9 @@
 ## fun
 * [](http://xv.rkclf.com/)
 
+## 小程序
+* [微信小程序云开发——城际拼车](https://github.com/jianjiayi/WX_Cloud_development_pinche)
+
 ## 我的想法
 * 熟人微信推送，微信机器人 
 * gitconfig 一键配置
-* 

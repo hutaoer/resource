@@ -16,3 +16,6 @@
   mg = merge
   hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 ```
+
+## Finder显示隐藏文件快捷键
+* 升级到 macOS Sierra 以上的系统后，按 `command + shift + .`就能直接在 Finder 里显示隐藏文件，再次按就是隐藏回去。
