@@ -106,6 +106,8 @@
 ### 代码片段
 * [Lepton](https://github.com/hackjutsu/Lepton)
 * [code-snippets-manager](https://www.slant.co/topics/7247/~code-snippets-manager)
+* [snipx](https://github.com/alibaba/snipx)
+* [snipit](https://snipit.io/)
 
 ### mock
 * [阿里妈妈rap](http://thx.github.io/RAP/study.html)
