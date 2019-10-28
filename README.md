@@ -103,6 +103,10 @@
 * [利用 ESLint 检查代码质量](http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
 * [标你妹啊](http://www.biaonimeia.com/)
 
+### 代码片段
+* [Lepton](https://github.com/hackjutsu/Lepton)
+* [code-snippets-manager](https://www.slant.co/topics/7247/~code-snippets-manager)
+
 ### mock
 * [阿里妈妈rap](http://thx.github.io/RAP/study.html)
 
