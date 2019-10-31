@@ -9,6 +9,11 @@
 - 实例题(根据盒模型解释边距重叠)
 - BFC(边距重叠解决方案)
 - 参考：https://segmentfault.com/a/1190000015235886
+- BFC设置方法：
+  - float的值不为none。
+  - overflow的值不为visible。
+  - display的值为table-cell, table-caption,  inline-block中的任何一个。
+  - position的值不为relative和static。
 
 * css 中的图片是否会加载？@media query 的时候呢？`<img src='的时候呢'>`
 * 常见伪类元素以及使用场景。
