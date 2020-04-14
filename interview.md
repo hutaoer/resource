@@ -76,6 +76,10 @@
   - props 和 state 的数据尽量维持扁平化
   - 组件渲染时，尽可能减少最终生成 dom 的数量，比如使用 return null，而非 display: none 来控制组件的显示隐藏
   - 拆分组件，复杂的逻辑做好分层，不要在一个组件内完成
+* react diff 算法
+  - 
+* 性能优化
+  - 
 
 ### 开放题
 * react或者vue里面，监听window滚动，设置fixed
