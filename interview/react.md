@@ -18,6 +18,11 @@
 * 高阶组件这个概念就更好理解了，说白了就是一个函数接受一个组件作为参数，经过一系列加工后，最后返回一个新的组件。
 * 上面两种模式不好的地方：这两种模式，会发现它们会增加我们代码的层级关系，hooks会更加的简洁。
 
+## react router
+
+
+## 动态路由
+
 ## hook
 * useState是react自带的一个hook函数，它的作用就是用来声明状态变量。
 * useState这个函数接收的参数是我们的状态初始值（initial state），它返回了一个数组，这个数组的第[0]项是当前当前的状态值，第[1]项是可以改变状态值的方法函数。
@@ -28,7 +33,41 @@
   - 我们之前都把这些副作用的函数写在生命周期函数钩子里，比如componentDidMount，componentDidUpdate和componentWillUnmount。而现在的useEffect就相当与这些声明周期函数钩子的集合体。
   - 第一，react首次渲染和之后的每次渲染都会调用一遍传给useEffect的函数。而之前我们要用两个声明周期函数来分别表示首次渲染（componentDidMount），和之后的更新导致的重新渲染（componentDidUpdate）。
   - 第二，useEffect中定义的副作用函数的执行不会阻碍浏览器更新视图，也就是说这些函数是异步执行的，而之前的componentDidMount或componentDidUpdate中的代码则是同步执行的。
+* effect在什么时候执行的？
+* 在任意一次渲染中，props和state是始终保持不变的。如果props和state在不同的渲染中是相互独立的，那么使用到它们的任何值也是独立的（包括事件处理函数）。它们都“属于”一次特定的渲染。即便是事件处理中的异步函数调用“看到”的也是这次渲染中的count值。
+* 每次渲染都有它自己的Effects，effect 函数本身在每一次渲染中都不相同。effects会在每次渲染后运行。
+* class写法中，this.state.count总是指向最新的count值，而不是属于某次特定渲染的值。
+* 在单次渲染的范围内，props和state始终保持不变。
+* 有时候你可能想在effect的回调函数里读取最新的值而不是捕获的值。最简单的实现方法是使用`refs`
+* 第一个， 如果一个函数没有使用组件内的任何值，你应该把它提到组件外面去定义，然后就可以自由地在effects中使用。或者， 你也可以把它包装成 useCallback Hook:
+* 使用useCallback，函数完全可以参与到数据流中。我们可以说如果一个函数的输入改变了，这个函数就改变了。
+* 为什么使用hooks?同一个 componentDidMount 中可能也包含很多其它的逻辑，如设置事件监听，而之后需在 componentWillUnmount 中清除，代码量多起来的时候，容易产生bug.
 
+### hook 使用原则
+* 只能在函数最外层调用 Hook。不要在循环、条件判断或者子函数中调用。
+* 只能在 React 的函数组件中调用 Hook。不要在其他 JavaScript 函数中调用。（还有一个地方可以调用 Hook —— 就是自定义的 Hook 中，我们稍后会学习到。）
+
+### useState原理
+* 为什么不能在循环、判断内部使用 Hook？useState内部实现的时候，每调用一次，数组的index+1，如果使用了判断，可能导致两次渲染的时候，state对应的索引不一致。
+* useState，不会把心的state和旧的state合并。
+* 与 class 组件中的 setState 方法不同，useState 不会自动合并更新对象。
+
+### useEffect
+* useEffect 就是一个 Effect Hook，给函数组件增加了操作副作用的能力。它跟 class 组件中的 componentDidMount、componentDidUpdate 和 componentWillUnmount 具有相同的用途，只不过被合并成了一个 API。
+* 赋值给 useEffect 的函数会在组件渲染到屏幕之后执行。默认情况下，effect 会在每轮组件渲染完成后执行。
+* Taro 会确保 dispatch 函数的标识是稳定的，并且不会在组件重新渲染时改变。这就是为什么可以安全地从 useEffect 或 useCallback 的依赖列表中省略 dispatch。
+
+### useContext
+* 调用了 useContext 的组件总会在 context 值变化时重新渲染。
+
+### useRef
+* useRef 返回一个可变的 ref 对象，其 .current 属性被初始化为传入的参数（initialValue）。返回的 ref 对象在组件的整个生命周期内保持不变。
+* Ref属性用来获取DOM元素的节点和获取子组件的实例。
+* 获取DOM元素的节点，获取子组件的实例，渲染周期之间共享数据的存储（state不能存储跨渲染周期的数据，因为state的保存会触发组件重渲染）。
+* 因为函数组件没有实例，如果想用ref获取子组件的实例，子组件组要写成类组件
+* 通过forwardRef可以访问到函数子组件
+
+## refs
 
 ### React 16 更新一览|精读《React16 新特性》
 * Fiber
@@ -82,6 +121,7 @@
 ### dva
 
 ### antd
+
 ## React 中 keys 的作用是什么？
 * Keys 是 React 用于追踪哪些列表中元素被修改、被添加或者被移除的辅助标识。
 * 在开发过程中，我们需要保证某个元素的 key 在其同级元素中具有唯一性。在 React Diff 算法中 React 会借助元素的 Key 值来判断该元素是新近创建的还是被移动而来的元素，从而减少不必要的元素重渲染。此外，React 还需要借助 Key 值来判断元素与本地状态的关联关系，因此我们绝不可忽视转换函数中 Key 的重要性。
@@ -92,3 +132,6 @@
 ## 受控组件和非受控组件
 * 受控组件（Controlled Component）代指那些交由 React 控制并且所有的表单数据统一存放的组件。
 * 非受控组件（Uncontrolled Component）则是由DOM存放表单数据，并非存放在 React 组件中。我们可以使用 refs 来操控DOM元素。
+
+
+
