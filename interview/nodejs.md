@@ -5,6 +5,7 @@
 * 进程是 CPU资源分配的最小单位；线程是 CPU调度的最小单位。
 
 ## 浏览器中与node中事件循环与执行机制的区别
+* 实现方式不一样。
 * 浏览器的Event loop是在HTML5中定义的规范，而node中则由libuv库实现。
 
 ### 浏览器环境
@@ -21,6 +22,8 @@
 
 #### 注意
 * new Promise((resolve, reject) =>{console.log(‘同步’);resolve()}).then(() => {console.log('异步')})，即promise的then和catch才是microtask，本身的内部代码不是。
+* catch 和 then 都是微任务
+* promise 本身是同步执行，在实例化的时候，就执行了。
 
 ### node环境
 * js执行为单线程，所有代码皆在执行线程调用栈完成执行。当执行线程任务清空后才会去轮询取任务队列中任务。

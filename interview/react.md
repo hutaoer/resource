@@ -42,6 +42,8 @@
 * 第一个， 如果一个函数没有使用组件内的任何值，你应该把它提到组件外面去定义，然后就可以自由地在effects中使用。或者， 你也可以把它包装成 useCallback Hook:
 * 使用useCallback，函数完全可以参与到数据流中。我们可以说如果一个函数的输入改变了，这个函数就改变了。
 * 为什么使用hooks?同一个 componentDidMount 中可能也包含很多其它的逻辑，如设置事件监听，而之后需在 componentWillUnmount 中清除，代码量多起来的时候，容易产生bug.
+* hooks 可以把副作用拆开来，达到解耦的目的。
+* 一些隐藏的问题，比如函数组件中的一些副作用，排查起来比较费时间。
 
 ### hook 使用原则
 * 只能在函数最外层调用 Hook。不要在循环、条件判断或者子函数中调用。
@@ -61,7 +63,7 @@
 * 调用了 useContext 的组件总会在 context 值变化时重新渲染。
 
 ### useRef
-* useRef 返回一个可变的 ref 对象，其 .current 属性被初始化为传入的参数（initialValue）。返回的 ref 对象在组件的整个生命周期内保持不变。
+* useRef 返回一个可变的 ref 对象，其 .current 属性被初始化为传入的参数（initialValue）。返回的 ref 对象在【组件的整个生命周期内】保持不变。
 * Ref属性用来获取DOM元素的节点和获取子组件的实例。
 * 获取DOM元素的节点，获取子组件的实例，渲染周期之间共享数据的存储（state不能存储跨渲染周期的数据，因为state的保存会触发组件重渲染）。
 * 因为函数组件没有实例，如果想用ref获取子组件的实例，子组件组要写成类组件
@@ -71,8 +73,8 @@
 
 ### React 16 更新一览|精读《React16 新特性》
 * Fiber
-  - Fiber 是对 React 核心算法的一次重新实现，将原本的同步更新过程碎片化，避免主线程的长时间阻塞，使应用的渲染更加流畅。
-  - 在 React16 之前，更新组件时会调用各个组件的生命周期函数，计算和比对 Virtual DOM，更新 DOM 树等，这整个过程是同步进行的，中途无法中断。当组件比较庞大，更新操作耗时较长时，就会导致浏览器唯一的主线程都是执行组件更新操作，而无法响应用户的输入或动画的渲染，很影响用户体验。
+  - Fiber 是对 React 核心算法的一次重新实现，将`原本的同步更新过程碎片化，避免主线程的长时间阻塞，使应用的渲染更加流畅`。
+  - 在 React16 之前，更新组件时会调用各个组件的生命周期函数，计算和比对 Virtual DOM，更新 DOM 树等，这整个过程是同步进行的，`中途无法中断`。当组件比较庞大，更新操作耗时较长时，就会导致浏览器唯一的主线程都是执行组件更新操作，而无法响应用户的输入或动画的渲染，很影响用户体验。
 * createRef
   - React16 规范了 Ref 的获取方式，通过 React.createRef 取得 Ref 对象。
 * createContext
@@ -80,7 +82,7 @@
 * 新增了一个顶级 API: ReactDOM.createPortal。
   - 使用 createPortal 可以快速创建 Dialog 组件，且不需要牵扯到 componentDidMount、componentDidUpdate 等生命周期函数。
 * render 方法能够返回数组了
-* 更好的错误处理：componentDidCatch(error, info) 的生命周期函数
+* 更好的错误处理：`componentDidCatch(error, info)` 的生命周期函数
 * 更小的体积。
 
 ### react 16 新的生命周期
@@ -110,7 +112,7 @@
 
 ### redux / flux / vuex
 * redux与flux都是react框架的应用数据流框架。vuex是vue的核心方法。
-* redux是一个应用数据流框架，主要是解决了组件间状态共享的问题，原理是集中式管理，主要有三个核心方法，action，store，reducer，工作流程是view调用store的dispatch接收action传入store，reducer进行state操作，view通过store提供的getState获取最新的数据。
+* redux是一个应用数据流框架，主要是解决了【组件间状态共享的问题】，原理是集中式管理，主要有三个核心方法，action，store，reducer，工作流程是view调用store的dispatch接收action传入store，reducer进行state操作，view通过store提供的getState获取最新的数据。
 * flux也是用来进行数据操作的，有四个组成部分action，dispatch，view，store，工作流程是view发出一个action，派发器接收action，让store进行数据更新，更新完成以后store发出change，view接受change更新视图。
 * Redux和Flux很像。主要区别在于Flux有多个可以改变应用状态的store，在Flux中dispatcher被用来传递数据到注册的回调事件，但是在redux中只能定义一个可更新状态的store，redux把store和Dispatcher合并,结构更加简单清晰，新增state,对状态的管理更加明确，通过redux，流程更加规范了，减少手动编码量，提高了编码效率，同时缺点是当数据更新时有时候组件不需要，但是也要重新绘制，有些影响效率。一般情况下，我们在构建多交互，多数据流的复杂项目应用时才会使用它们。
 * Vuex 是一个专为 Vue.js 设计的状态管理模式，vuex解决了组件之间同一状态的共享问题。当我们的应用遇到多个组件共享状态时，会需要多个组件依赖于同一状态，这时候使用vuex就可以很好的解决。

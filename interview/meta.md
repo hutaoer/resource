@@ -8,7 +8,7 @@
   - 参考：[移动端的头部标签和 meta](https://segmentfault.com/a/1190000002532413)
 
 ## 设备像素 / 物理像素
-* 是指屏幕的实际物理像素点，比如 iPhone6 Plus 是 `1920*1080` 的像素分辨率，那么代表它纵向有 1920 个物理像素点。
+* 是指屏幕的【实际物理像素点】，比如 iPhone6 Plus 是 `1920*1080` 的像素分辨率，那么代表它纵向有 1920 个物理像素点。
 
 ## CSS 像素（css pixel） / 密度独立像素（density independent pixels - dip）
 * CSS 像素是 web 编程中的概念，是抽象的，不是实际存在的。它是独立于设备用于逻辑上衡量像素的单位，所以又叫密度独立像素。
@@ -20,7 +20,7 @@
 * 指物理像素和密度独立像素的比值。window.devicePixelRatio = 物理像素 / dip
 
 ## viewport
-* device-width 是指这个设备最理想的 viewport 宽度。iPhone6 之前的 device-width 都是 320px ，iPhone6 是 375px 
+* device-width 是指这个设备最理想的 viewport 宽度。iPhone6 之前的 device-width 都是 320px ，iPhone6 是 375px ，iphone 8: 750。
 * device-width 是和 CSS像素（也叫密度独立像素 dip）是相同的。也就是说，web 页面中的 CSS像素的值等于 device-width 时，对应到手机上就是占满全屏的宽度。
 * initial-scale=1.0 是指初始化的时候缩放大小是1，也就是不缩放。
 * user-scalable=0 是指禁止用户进行缩放。
